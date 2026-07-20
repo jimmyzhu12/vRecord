@@ -4,8 +4,8 @@ import numpy as np
 import pandas as pd
 from typing import Any, List, Tuple
 
-CSV_PATH = "../data_cleaning/data_mm.csv"
-OUT_111_PATH = "out_7_19"
+CSV_PATH = "../data_mm.csv"
+OUT_111_PATH = "network_summary"
 
 FPS = 30.0
 MIN_JUMP_FRAMES = 50
