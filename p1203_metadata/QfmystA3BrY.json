@@ -1,0 +1,5445 @@
+{
+  "video_id": "QfmystA3BrY",
+  "representations": {
+    "480p": {
+      "codec": "avc1.64001f",
+      "width": 852,
+      "height": 480,
+      "fps": 30.0,
+      "nominal_bandwidth": 2569369,
+      "segments": [
+        {
+          "segment_index": 1,
+          "filename": "0-1.m4s",
+          "duration": 4.0,
+          "size_bytes": 801324,
+          "bitrate_bps": 1602648.0
+        },
+        {
+          "segment_index": 2,
+          "filename": "0-2.m4s",
+          "duration": 4.0,
+          "size_bytes": 1298207,
+          "bitrate_bps": 2596414.0
+        },
+        {
+          "segment_index": 3,
+          "filename": "0-3.m4s",
+          "duration": 4.0,
+          "size_bytes": 1053072,
+          "bitrate_bps": 2106144.0
+        },
+        {
+          "segment_index": 4,
+          "filename": "0-4.m4s",
+          "duration": 4.0,
+          "size_bytes": 1080057,
+          "bitrate_bps": 2160114.0
+        },
+        {
+          "segment_index": 5,
+          "filename": "0-5.m4s",
+          "duration": 4.0,
+          "size_bytes": 1005997,
+          "bitrate_bps": 2011994.0
+        },
+        {
+          "segment_index": 6,
+          "filename": "0-6.m4s",
+          "duration": 4.0,
+          "size_bytes": 1152341,
+          "bitrate_bps": 2304682.0
+        },
+        {
+          "segment_index": 7,
+          "filename": "0-7.m4s",
+          "duration": 4.0,
+          "size_bytes": 1130478,
+          "bitrate_bps": 2260956.0
+        },
+        {
+          "segment_index": 8,
+          "filename": "0-8.m4s",
+          "duration": 4.0,
+          "size_bytes": 1446517,
+          "bitrate_bps": 2893034.0
+        },
+        {
+          "segment_index": 9,
+          "filename": "0-9.m4s",
+          "duration": 4.0,
+          "size_bytes": 1072005,
+          "bitrate_bps": 2144010.0
+        },
+        {
+          "segment_index": 10,
+          "filename": "0-10.m4s",
+          "duration": 4.0,
+          "size_bytes": 1171306,
+          "bitrate_bps": 2342612.0
+        },
+        {
+          "segment_index": 11,
+          "filename": "0-11.m4s",
+          "duration": 4.0,
+          "size_bytes": 1263828,
+          "bitrate_bps": 2527656.0
+        },
+        {
+          "segment_index": 12,
+          "filename": "0-12.m4s",
+          "duration": 4.0,
+          "size_bytes": 1306182,
+          "bitrate_bps": 2612364.0
+        },
+        {
+          "segment_index": 13,
+          "filename": "0-13.m4s",
+          "duration": 4.0,
+          "size_bytes": 1382660,
+          "bitrate_bps": 2765320.0
+        },
+        {
+          "segment_index": 14,
+          "filename": "0-14.m4s",
+          "duration": 4.0,
+          "size_bytes": 1334382,
+          "bitrate_bps": 2668764.0
+        },
+        {
+          "segment_index": 15,
+          "filename": "0-15.m4s",
+          "duration": 4.0,
+          "size_bytes": 1119092,
+          "bitrate_bps": 2238184.0
+        },
+        {
+          "segment_index": 16,
+          "filename": "0-16.m4s",
+          "duration": 4.0,
+          "size_bytes": 1211209,
+          "bitrate_bps": 2422418.0
+        },
+        {
+          "segment_index": 17,
+          "filename": "0-17.m4s",
+          "duration": 4.0,
+          "size_bytes": 1067886,
+          "bitrate_bps": 2135772.0
+        },
+        {
+          "segment_index": 18,
+          "filename": "0-18.m4s",
+          "duration": 4.0,
+          "size_bytes": 1254908,
+          "bitrate_bps": 2509816.0
+        },
+        {
+          "segment_index": 19,
+          "filename": "0-19.m4s",
+          "duration": 4.0,
+          "size_bytes": 1548226,
+          "bitrate_bps": 3096452.0
+        },
+        {
+          "segment_index": 20,
+          "filename": "0-20.m4s",
+          "duration": 4.0,
+          "size_bytes": 1199058,
+          "bitrate_bps": 2398116.0
+        },
+        {
+          "segment_index": 21,
+          "filename": "0-21.m4s",
+          "duration": 4.0,
+          "size_bytes": 1082441,
+          "bitrate_bps": 2164882.0
+        },
+        {
+          "segment_index": 22,
+          "filename": "0-22.m4s",
+          "duration": 4.0,
+          "size_bytes": 1186354,
+          "bitrate_bps": 2372708.0
+        },
+        {
+          "segment_index": 23,
+          "filename": "0-23.m4s",
+          "duration": 4.0,
+          "size_bytes": 1254877,
+          "bitrate_bps": 2509754.0
+        },
+        {
+          "segment_index": 24,
+          "filename": "0-24.m4s",
+          "duration": 4.0,
+          "size_bytes": 1219379,
+          "bitrate_bps": 2438758.0
+        },
+        {
+          "segment_index": 25,
+          "filename": "0-25.m4s",
+          "duration": 4.0,
+          "size_bytes": 1398483,
+          "bitrate_bps": 2796966.0
+        },
+        {
+          "segment_index": 26,
+          "filename": "0-26.m4s",
+          "duration": 4.0,
+          "size_bytes": 1469601,
+          "bitrate_bps": 2939202.0
+        },
+        {
+          "segment_index": 27,
+          "filename": "0-27.m4s",
+          "duration": 4.0,
+          "size_bytes": 1143479,
+          "bitrate_bps": 2286958.0
+        },
+        {
+          "segment_index": 28,
+          "filename": "0-28.m4s",
+          "duration": 4.0,
+          "size_bytes": 1223953,
+          "bitrate_bps": 2447906.0
+        },
+        {
+          "segment_index": 29,
+          "filename": "0-29.m4s",
+          "duration": 4.0,
+          "size_bytes": 1274109,
+          "bitrate_bps": 2548218.0
+        },
+        {
+          "segment_index": 30,
+          "filename": "0-30.m4s",
+          "duration": 4.0,
+          "size_bytes": 1115237,
+          "bitrate_bps": 2230474.0
+        },
+        {
+          "segment_index": 31,
+          "filename": "0-31.m4s",
+          "duration": 4.0,
+          "size_bytes": 1142144,
+          "bitrate_bps": 2284288.0
+        },
+        {
+          "segment_index": 32,
+          "filename": "0-32.m4s",
+          "duration": 4.0,
+          "size_bytes": 1023688,
+          "bitrate_bps": 2047376.0
+        },
+        {
+          "segment_index": 33,
+          "filename": "0-33.m4s",
+          "duration": 4.0,
+          "size_bytes": 1179207,
+          "bitrate_bps": 2358414.0
+        },
+        {
+          "segment_index": 34,
+          "filename": "0-34.m4s",
+          "duration": 4.0,
+          "size_bytes": 1178122,
+          "bitrate_bps": 2356244.0
+        },
+        {
+          "segment_index": 35,
+          "filename": "0-35.m4s",
+          "duration": 4.0,
+          "size_bytes": 1540510,
+          "bitrate_bps": 3081020.0
+        },
+        {
+          "segment_index": 36,
+          "filename": "0-36.m4s",
+          "duration": 4.0,
+          "size_bytes": 1534493,
+          "bitrate_bps": 3068986.0
+        },
+        {
+          "segment_index": 37,
+          "filename": "0-37.m4s",
+          "duration": 4.0,
+          "size_bytes": 1363035,
+          "bitrate_bps": 2726070.0
+        },
+        {
+          "segment_index": 38,
+          "filename": "0-38.m4s",
+          "duration": 4.0,
+          "size_bytes": 1220027,
+          "bitrate_bps": 2440054.0
+        },
+        {
+          "segment_index": 39,
+          "filename": "0-39.m4s",
+          "duration": 4.0,
+          "size_bytes": 1615853,
+          "bitrate_bps": 3231706.0
+        },
+        {
+          "segment_index": 40,
+          "filename": "0-40.m4s",
+          "duration": 4.0,
+          "size_bytes": 1809999,
+          "bitrate_bps": 3619998.0
+        },
+        {
+          "segment_index": 41,
+          "filename": "0-41.m4s",
+          "duration": 4.0,
+          "size_bytes": 1585103,
+          "bitrate_bps": 3170206.0
+        },
+        {
+          "segment_index": 42,
+          "filename": "0-42.m4s",
+          "duration": 4.0,
+          "size_bytes": 1421549,
+          "bitrate_bps": 2843098.0
+        },
+        {
+          "segment_index": 43,
+          "filename": "0-43.m4s",
+          "duration": 4.0,
+          "size_bytes": 1392995,
+          "bitrate_bps": 2785990.0
+        },
+        {
+          "segment_index": 44,
+          "filename": "0-44.m4s",
+          "duration": 4.0,
+          "size_bytes": 1208249,
+          "bitrate_bps": 2416498.0
+        },
+        {
+          "segment_index": 45,
+          "filename": "0-45.m4s",
+          "duration": 4.0,
+          "size_bytes": 1266476,
+          "bitrate_bps": 2532952.0
+        },
+        {
+          "segment_index": 46,
+          "filename": "0-46.m4s",
+          "duration": 4.0,
+          "size_bytes": 1278400,
+          "bitrate_bps": 2556800.0
+        },
+        {
+          "segment_index": 47,
+          "filename": "0-47.m4s",
+          "duration": 4.0,
+          "size_bytes": 1466699,
+          "bitrate_bps": 2933398.0
+        },
+        {
+          "segment_index": 48,
+          "filename": "0-48.m4s",
+          "duration": 4.0,
+          "size_bytes": 1494666,
+          "bitrate_bps": 2989332.0
+        },
+        {
+          "segment_index": 49,
+          "filename": "0-49.m4s",
+          "duration": 4.0,
+          "size_bytes": 1301663,
+          "bitrate_bps": 2603326.0
+        },
+        {
+          "segment_index": 50,
+          "filename": "0-50.m4s",
+          "duration": 4.0,
+          "size_bytes": 1126370,
+          "bitrate_bps": 2252740.0
+        },
+        {
+          "segment_index": 51,
+          "filename": "0-51.m4s",
+          "duration": 4.0,
+          "size_bytes": 1185228,
+          "bitrate_bps": 2370456.0
+        },
+        {
+          "segment_index": 52,
+          "filename": "0-52.m4s",
+          "duration": 4.0,
+          "size_bytes": 1112544,
+          "bitrate_bps": 2225088.0
+        },
+        {
+          "segment_index": 53,
+          "filename": "0-53.m4s",
+          "duration": 4.0,
+          "size_bytes": 1228661,
+          "bitrate_bps": 2457322.0
+        },
+        {
+          "segment_index": 54,
+          "filename": "0-54.m4s",
+          "duration": 4.0,
+          "size_bytes": 1119773,
+          "bitrate_bps": 2239546.0
+        },
+        {
+          "segment_index": 55,
+          "filename": "0-55.m4s",
+          "duration": 4.0,
+          "size_bytes": 1143918,
+          "bitrate_bps": 2287836.0
+        },
+        {
+          "segment_index": 56,
+          "filename": "0-56.m4s",
+          "duration": 4.0,
+          "size_bytes": 1298578,
+          "bitrate_bps": 2597156.0
+        },
+        {
+          "segment_index": 57,
+          "filename": "0-57.m4s",
+          "duration": 4.0,
+          "size_bytes": 1340409,
+          "bitrate_bps": 2680818.0
+        },
+        {
+          "segment_index": 58,
+          "filename": "0-58.m4s",
+          "duration": 4.0,
+          "size_bytes": 1332080,
+          "bitrate_bps": 2664160.0
+        },
+        {
+          "segment_index": 59,
+          "filename": "0-59.m4s",
+          "duration": 4.0,
+          "size_bytes": 1270033,
+          "bitrate_bps": 2540066.0
+        },
+        {
+          "segment_index": 60,
+          "filename": "0-60.m4s",
+          "duration": 4.0,
+          "size_bytes": 1274628,
+          "bitrate_bps": 2549256.0
+        },
+        {
+          "segment_index": 61,
+          "filename": "0-61.m4s",
+          "duration": 4.0,
+          "size_bytes": 1152361,
+          "bitrate_bps": 2304722.0
+        },
+        {
+          "segment_index": 62,
+          "filename": "0-62.m4s",
+          "duration": 4.0,
+          "size_bytes": 1083737,
+          "bitrate_bps": 2167474.0
+        },
+        {
+          "segment_index": 63,
+          "filename": "0-63.m4s",
+          "duration": 4.0,
+          "size_bytes": 1160201,
+          "bitrate_bps": 2320402.0
+        },
+        {
+          "segment_index": 64,
+          "filename": "0-64.m4s",
+          "duration": 4.0,
+          "size_bytes": 1375906,
+          "bitrate_bps": 2751812.0
+        },
+        {
+          "segment_index": 65,
+          "filename": "0-65.m4s",
+          "duration": 4.0,
+          "size_bytes": 1312812,
+          "bitrate_bps": 2625624.0
+        },
+        {
+          "segment_index": 66,
+          "filename": "0-66.m4s",
+          "duration": 4.0,
+          "size_bytes": 1199233,
+          "bitrate_bps": 2398466.0
+        },
+        {
+          "segment_index": 67,
+          "filename": "0-67.m4s",
+          "duration": 4.0,
+          "size_bytes": 1502637,
+          "bitrate_bps": 3005274.0
+        },
+        {
+          "segment_index": 68,
+          "filename": "0-68.m4s",
+          "duration": 4.0,
+          "size_bytes": 1548074,
+          "bitrate_bps": 3096148.0
+        },
+        {
+          "segment_index": 69,
+          "filename": "0-69.m4s",
+          "duration": 4.0,
+          "size_bytes": 1228504,
+          "bitrate_bps": 2457008.0
+        },
+        {
+          "segment_index": 70,
+          "filename": "0-70.m4s",
+          "duration": 4.0,
+          "size_bytes": 1283395,
+          "bitrate_bps": 2566790.0
+        },
+        {
+          "segment_index": 71,
+          "filename": "0-71.m4s",
+          "duration": 4.0,
+          "size_bytes": 972721,
+          "bitrate_bps": 1945442.0
+        },
+        {
+          "segment_index": 72,
+          "filename": "0-72.m4s",
+          "duration": 4.0,
+          "size_bytes": 1352735,
+          "bitrate_bps": 2705470.0
+        },
+        {
+          "segment_index": 73,
+          "filename": "0-73.m4s",
+          "duration": 4.0,
+          "size_bytes": 1394607,
+          "bitrate_bps": 2789214.0
+        },
+        {
+          "segment_index": 74,
+          "filename": "0-74.m4s",
+          "duration": 4.0,
+          "size_bytes": 1422809,
+          "bitrate_bps": 2845618.0
+        },
+        {
+          "segment_index": 75,
+          "filename": "0-75.m4s",
+          "duration": 4.0,
+          "size_bytes": 1244880,
+          "bitrate_bps": 2489760.0
+        },
+        {
+          "segment_index": 76,
+          "filename": "0-76.m4s",
+          "duration": 4.0,
+          "size_bytes": 1313371,
+          "bitrate_bps": 2626742.0
+        },
+        {
+          "segment_index": 77,
+          "filename": "0-77.m4s",
+          "duration": 4.0,
+          "size_bytes": 1351869,
+          "bitrate_bps": 2703738.0
+        },
+        {
+          "segment_index": 78,
+          "filename": "0-78.m4s",
+          "duration": 4.0,
+          "size_bytes": 1399334,
+          "bitrate_bps": 2798668.0
+        },
+        {
+          "segment_index": 79,
+          "filename": "0-79.m4s",
+          "duration": 4.0,
+          "size_bytes": 1195739,
+          "bitrate_bps": 2391478.0
+        },
+        {
+          "segment_index": 80,
+          "filename": "0-80.m4s",
+          "duration": 4.0,
+          "size_bytes": 1328044,
+          "bitrate_bps": 2656088.0
+        },
+        {
+          "segment_index": 81,
+          "filename": "0-81.m4s",
+          "duration": 4.0,
+          "size_bytes": 1334670,
+          "bitrate_bps": 2669340.0
+        },
+        {
+          "segment_index": 82,
+          "filename": "0-82.m4s",
+          "duration": 4.0,
+          "size_bytes": 1327830,
+          "bitrate_bps": 2655660.0
+        },
+        {
+          "segment_index": 83,
+          "filename": "0-83.m4s",
+          "duration": 4.0,
+          "size_bytes": 1130539,
+          "bitrate_bps": 2261078.0
+        },
+        {
+          "segment_index": 84,
+          "filename": "0-84.m4s",
+          "duration": 4.0,
+          "size_bytes": 1248435,
+          "bitrate_bps": 2496870.0
+        },
+        {
+          "segment_index": 85,
+          "filename": "0-85.m4s",
+          "duration": 4.0,
+          "size_bytes": 1394585,
+          "bitrate_bps": 2789170.0
+        },
+        {
+          "segment_index": 86,
+          "filename": "0-86.m4s",
+          "duration": 4.0,
+          "size_bytes": 1288075,
+          "bitrate_bps": 2576150.0
+        },
+        {
+          "segment_index": 87,
+          "filename": "0-87.m4s",
+          "duration": 4.0,
+          "size_bytes": 1358805,
+          "bitrate_bps": 2717610.0
+        },
+        {
+          "segment_index": 88,
+          "filename": "0-88.m4s",
+          "duration": 4.0,
+          "size_bytes": 1232627,
+          "bitrate_bps": 2465254.0
+        },
+        {
+          "segment_index": 89,
+          "filename": "0-89.m4s",
+          "duration": 4.0,
+          "size_bytes": 1561115,
+          "bitrate_bps": 3122230.0
+        },
+        {
+          "segment_index": 90,
+          "filename": "0-90.m4s",
+          "duration": 4.0,
+          "size_bytes": 1259440,
+          "bitrate_bps": 2518880.0
+        },
+        {
+          "segment_index": 91,
+          "filename": "0-91.m4s",
+          "duration": 4.0,
+          "size_bytes": 1220096,
+          "bitrate_bps": 2440192.0
+        },
+        {
+          "segment_index": 92,
+          "filename": "0-92.m4s",
+          "duration": 4.0,
+          "size_bytes": 1080314,
+          "bitrate_bps": 2160628.0
+        },
+        {
+          "segment_index": 93,
+          "filename": "0-93.m4s",
+          "duration": 4.0,
+          "size_bytes": 1069367,
+          "bitrate_bps": 2138734.0
+        },
+        {
+          "segment_index": 94,
+          "filename": "0-94.m4s",
+          "duration": 4.0,
+          "size_bytes": 1407370,
+          "bitrate_bps": 2814740.0
+        },
+        {
+          "segment_index": 95,
+          "filename": "0-95.m4s",
+          "duration": 4.0,
+          "size_bytes": 1092214,
+          "bitrate_bps": 2184428.0
+        },
+        {
+          "segment_index": 96,
+          "filename": "0-96.m4s",
+          "duration": 4.0,
+          "size_bytes": 1398293,
+          "bitrate_bps": 2796586.0
+        },
+        {
+          "segment_index": 97,
+          "filename": "0-97.m4s",
+          "duration": 4.0,
+          "size_bytes": 1233493,
+          "bitrate_bps": 2466986.0
+        },
+        {
+          "segment_index": 98,
+          "filename": "0-98.m4s",
+          "duration": 4.0,
+          "size_bytes": 1164659,
+          "bitrate_bps": 2329318.0
+        },
+        {
+          "segment_index": 99,
+          "filename": "0-99.m4s",
+          "duration": 4.0,
+          "size_bytes": 1195141,
+          "bitrate_bps": 2390282.0
+        },
+        {
+          "segment_index": 100,
+          "filename": "0-100.m4s",
+          "duration": 4.0,
+          "size_bytes": 1156376,
+          "bitrate_bps": 2312752.0
+        },
+        {
+          "segment_index": 101,
+          "filename": "0-101.m4s",
+          "duration": 4.0,
+          "size_bytes": 1425003,
+          "bitrate_bps": 2850006.0
+        },
+        {
+          "segment_index": 102,
+          "filename": "0-102.m4s",
+          "duration": 4.0,
+          "size_bytes": 1418476,
+          "bitrate_bps": 2836952.0
+        },
+        {
+          "segment_index": 103,
+          "filename": "0-103.m4s",
+          "duration": 4.0,
+          "size_bytes": 1128953,
+          "bitrate_bps": 2257906.0
+        },
+        {
+          "segment_index": 104,
+          "filename": "0-104.m4s",
+          "duration": 4.0,
+          "size_bytes": 1425374,
+          "bitrate_bps": 2850748.0
+        },
+        {
+          "segment_index": 105,
+          "filename": "0-105.m4s",
+          "duration": 4.0,
+          "size_bytes": 1081116,
+          "bitrate_bps": 2162232.0
+        },
+        {
+          "segment_index": 106,
+          "filename": "0-106.m4s",
+          "duration": 4.0,
+          "size_bytes": 1010743,
+          "bitrate_bps": 2021486.0
+        },
+        {
+          "segment_index": 107,
+          "filename": "0-107.m4s",
+          "duration": 4.0,
+          "size_bytes": 1068689,
+          "bitrate_bps": 2137378.0
+        },
+        {
+          "segment_index": 108,
+          "filename": "0-108.m4s",
+          "duration": 4.0,
+          "size_bytes": 1284781,
+          "bitrate_bps": 2569562.0
+        },
+        {
+          "segment_index": 109,
+          "filename": "0-109.m4s",
+          "duration": 4.0,
+          "size_bytes": 1143851,
+          "bitrate_bps": 2287702.0
+        },
+        {
+          "segment_index": 110,
+          "filename": "0-110.m4s",
+          "duration": 4.0,
+          "size_bytes": 1008486,
+          "bitrate_bps": 2016972.0
+        },
+        {
+          "segment_index": 111,
+          "filename": "0-111.m4s",
+          "duration": 4.0,
+          "size_bytes": 942257,
+          "bitrate_bps": 1884514.0
+        },
+        {
+          "segment_index": 112,
+          "filename": "0-112.m4s",
+          "duration": 4.0,
+          "size_bytes": 1067965,
+          "bitrate_bps": 2135930.0
+        },
+        {
+          "segment_index": 113,
+          "filename": "0-113.m4s",
+          "duration": 4.0,
+          "size_bytes": 1044686,
+          "bitrate_bps": 2089372.0
+        },
+        {
+          "segment_index": 114,
+          "filename": "0-114.m4s",
+          "duration": 4.0,
+          "size_bytes": 953757,
+          "bitrate_bps": 1907514.0
+        },
+        {
+          "segment_index": 115,
+          "filename": "0-115.m4s",
+          "duration": 4.0,
+          "size_bytes": 1141121,
+          "bitrate_bps": 2282242.0
+        },
+        {
+          "segment_index": 116,
+          "filename": "0-116.m4s",
+          "duration": 4.0,
+          "size_bytes": 1492643,
+          "bitrate_bps": 2985286.0
+        },
+        {
+          "segment_index": 117,
+          "filename": "0-117.m4s",
+          "duration": 4.0,
+          "size_bytes": 1440717,
+          "bitrate_bps": 2881434.0
+        },
+        {
+          "segment_index": 118,
+          "filename": "0-118.m4s",
+          "duration": 4.0,
+          "size_bytes": 1232221,
+          "bitrate_bps": 2464442.0
+        },
+        {
+          "segment_index": 119,
+          "filename": "0-119.m4s",
+          "duration": 4.0,
+          "size_bytes": 1169997,
+          "bitrate_bps": 2339994.0
+        },
+        {
+          "segment_index": 120,
+          "filename": "0-120.m4s",
+          "duration": 4.0,
+          "size_bytes": 1280409,
+          "bitrate_bps": 2560818.0
+        },
+        {
+          "segment_index": 121,
+          "filename": "0-121.m4s",
+          "duration": 4.0,
+          "size_bytes": 1031645,
+          "bitrate_bps": 2063290.0
+        },
+        {
+          "segment_index": 122,
+          "filename": "0-122.m4s",
+          "duration": 4.0,
+          "size_bytes": 1203595,
+          "bitrate_bps": 2407190.0
+        },
+        {
+          "segment_index": 123,
+          "filename": "0-123.m4s",
+          "duration": 4.0,
+          "size_bytes": 1413080,
+          "bitrate_bps": 2826160.0
+        },
+        {
+          "segment_index": 124,
+          "filename": "0-124.m4s",
+          "duration": 4.0,
+          "size_bytes": 1240655,
+          "bitrate_bps": 2481310.0
+        },
+        {
+          "segment_index": 125,
+          "filename": "0-125.m4s",
+          "duration": 4.0,
+          "size_bytes": 1176187,
+          "bitrate_bps": 2352374.0
+        },
+        {
+          "segment_index": 126,
+          "filename": "0-126.m4s",
+          "duration": 4.0,
+          "size_bytes": 1355304,
+          "bitrate_bps": 2710608.0
+        },
+        {
+          "segment_index": 127,
+          "filename": "0-127.m4s",
+          "duration": 4.0,
+          "size_bytes": 1232130,
+          "bitrate_bps": 2464260.0
+        },
+        {
+          "segment_index": 128,
+          "filename": "0-128.m4s",
+          "duration": 4.0,
+          "size_bytes": 1151661,
+          "bitrate_bps": 2303322.0
+        },
+        {
+          "segment_index": 129,
+          "filename": "0-129.m4s",
+          "duration": 4.0,
+          "size_bytes": 1337160,
+          "bitrate_bps": 2674320.0
+        },
+        {
+          "segment_index": 130,
+          "filename": "0-130.m4s",
+          "duration": 4.0,
+          "size_bytes": 1295771,
+          "bitrate_bps": 2591542.0
+        },
+        {
+          "segment_index": 131,
+          "filename": "0-131.m4s",
+          "duration": 4.0,
+          "size_bytes": 1403196,
+          "bitrate_bps": 2806392.0
+        },
+        {
+          "segment_index": 132,
+          "filename": "0-132.m4s",
+          "duration": 4.0,
+          "size_bytes": 1030862,
+          "bitrate_bps": 2061724.0
+        },
+        {
+          "segment_index": 133,
+          "filename": "0-133.m4s",
+          "duration": 4.0,
+          "size_bytes": 1078725,
+          "bitrate_bps": 2157450.0
+        },
+        {
+          "segment_index": 134,
+          "filename": "0-134.m4s",
+          "duration": 4.0,
+          "size_bytes": 1597146,
+          "bitrate_bps": 3194292.0
+        },
+        {
+          "segment_index": 135,
+          "filename": "0-135.m4s",
+          "duration": 4.0,
+          "size_bytes": 1535179,
+          "bitrate_bps": 3070358.0
+        },
+        {
+          "segment_index": 136,
+          "filename": "0-136.m4s",
+          "duration": 4.0,
+          "size_bytes": 1336916,
+          "bitrate_bps": 2673832.0
+        },
+        {
+          "segment_index": 137,
+          "filename": "0-137.m4s",
+          "duration": 4.0,
+          "size_bytes": 1431812,
+          "bitrate_bps": 2863624.0
+        },
+        {
+          "segment_index": 138,
+          "filename": "0-138.m4s",
+          "duration": 4.0,
+          "size_bytes": 1357918,
+          "bitrate_bps": 2715836.0
+        },
+        {
+          "segment_index": 139,
+          "filename": "0-139.m4s",
+          "duration": 4.0,
+          "size_bytes": 1225136,
+          "bitrate_bps": 2450272.0
+        },
+        {
+          "segment_index": 140,
+          "filename": "0-140.m4s",
+          "duration": 4.0,
+          "size_bytes": 1216098,
+          "bitrate_bps": 2432196.0
+        },
+        {
+          "segment_index": 141,
+          "filename": "0-141.m4s",
+          "duration": 4.0,
+          "size_bytes": 1242841,
+          "bitrate_bps": 2485682.0
+        },
+        {
+          "segment_index": 142,
+          "filename": "0-142.m4s",
+          "duration": 4.0,
+          "size_bytes": 1178445,
+          "bitrate_bps": 2356890.0
+        },
+        {
+          "segment_index": 143,
+          "filename": "0-143.m4s",
+          "duration": 4.0,
+          "size_bytes": 1332372,
+          "bitrate_bps": 2664744.0
+        },
+        {
+          "segment_index": 144,
+          "filename": "0-144.m4s",
+          "duration": 4.0,
+          "size_bytes": 1165421,
+          "bitrate_bps": 2330842.0
+        },
+        {
+          "segment_index": 145,
+          "filename": "0-145.m4s",
+          "duration": 4.0,
+          "size_bytes": 1243075,
+          "bitrate_bps": 2486150.0
+        },
+        {
+          "segment_index": 146,
+          "filename": "0-146.m4s",
+          "duration": 4.0,
+          "size_bytes": 1177998,
+          "bitrate_bps": 2355996.0
+        },
+        {
+          "segment_index": 147,
+          "filename": "0-147.m4s",
+          "duration": 4.0,
+          "size_bytes": 1152667,
+          "bitrate_bps": 2305334.0
+        },
+        {
+          "segment_index": 148,
+          "filename": "0-148.m4s",
+          "duration": 4.0,
+          "size_bytes": 1093842,
+          "bitrate_bps": 2187684.0
+        },
+        {
+          "segment_index": 149,
+          "filename": "0-149.m4s",
+          "duration": 4.0,
+          "size_bytes": 1269443,
+          "bitrate_bps": 2538886.0
+        },
+        {
+          "segment_index": 150,
+          "filename": "0-150.m4s",
+          "duration": 4.0,
+          "size_bytes": 1265624,
+          "bitrate_bps": 2531248.0
+        },
+        {
+          "segment_index": 151,
+          "filename": "0-151.m4s",
+          "duration": 4.0,
+          "size_bytes": 1197580,
+          "bitrate_bps": 2395160.0
+        },
+        {
+          "segment_index": 152,
+          "filename": "0-152.m4s",
+          "duration": 4.0,
+          "size_bytes": 1295640,
+          "bitrate_bps": 2591280.0
+        },
+        {
+          "segment_index": 153,
+          "filename": "0-153.m4s",
+          "duration": 4.0,
+          "size_bytes": 1196060,
+          "bitrate_bps": 2392120.0
+        },
+        {
+          "segment_index": 154,
+          "filename": "0-154.m4s",
+          "duration": 4.0,
+          "size_bytes": 1364520,
+          "bitrate_bps": 2729040.0
+        },
+        {
+          "segment_index": 155,
+          "filename": "0-155.m4s",
+          "duration": 4.0,
+          "size_bytes": 1336097,
+          "bitrate_bps": 2672194.0
+        },
+        {
+          "segment_index": 156,
+          "filename": "0-156.m4s",
+          "duration": 4.0,
+          "size_bytes": 1161750,
+          "bitrate_bps": 2323500.0
+        },
+        {
+          "segment_index": 157,
+          "filename": "0-157.m4s",
+          "duration": 4.0,
+          "size_bytes": 1398809,
+          "bitrate_bps": 2797618.0
+        },
+        {
+          "segment_index": 158,
+          "filename": "0-158.m4s",
+          "duration": 4.0,
+          "size_bytes": 1214979,
+          "bitrate_bps": 2429958.0
+        },
+        {
+          "segment_index": 159,
+          "filename": "0-159.m4s",
+          "duration": 4.0,
+          "size_bytes": 1409979,
+          "bitrate_bps": 2819958.0
+        },
+        {
+          "segment_index": 160,
+          "filename": "0-160.m4s",
+          "duration": 4.0,
+          "size_bytes": 1476821,
+          "bitrate_bps": 2953642.0
+        },
+        {
+          "segment_index": 161,
+          "filename": "0-161.m4s",
+          "duration": 4.0,
+          "size_bytes": 1267101,
+          "bitrate_bps": 2534202.0
+        },
+        {
+          "segment_index": 162,
+          "filename": "0-162.m4s",
+          "duration": 4.0,
+          "size_bytes": 1258503,
+          "bitrate_bps": 2517006.0
+        },
+        {
+          "segment_index": 163,
+          "filename": "0-163.m4s",
+          "duration": 4.0,
+          "size_bytes": 1161521,
+          "bitrate_bps": 2323042.0
+        },
+        {
+          "segment_index": 164,
+          "filename": "0-164.m4s",
+          "duration": 4.0,
+          "size_bytes": 1149916,
+          "bitrate_bps": 2299832.0
+        },
+        {
+          "segment_index": 165,
+          "filename": "0-165.m4s",
+          "duration": 4.0,
+          "size_bytes": 1141479,
+          "bitrate_bps": 2282958.0
+        },
+        {
+          "segment_index": 166,
+          "filename": "0-166.m4s",
+          "duration": 4.0,
+          "size_bytes": 962823,
+          "bitrate_bps": 1925646.0
+        },
+        {
+          "segment_index": 167,
+          "filename": "0-167.m4s",
+          "duration": 4.0,
+          "size_bytes": 1256966,
+          "bitrate_bps": 2513932.0
+        },
+        {
+          "segment_index": 168,
+          "filename": "0-168.m4s",
+          "duration": 4.0,
+          "size_bytes": 1146772,
+          "bitrate_bps": 2293544.0
+        },
+        {
+          "segment_index": 169,
+          "filename": "0-169.m4s",
+          "duration": 4.0,
+          "size_bytes": 1154303,
+          "bitrate_bps": 2308606.0
+        },
+        {
+          "segment_index": 170,
+          "filename": "0-170.m4s",
+          "duration": 4.0,
+          "size_bytes": 1336256,
+          "bitrate_bps": 2672512.0
+        },
+        {
+          "segment_index": 171,
+          "filename": "0-171.m4s",
+          "duration": 4.0,
+          "size_bytes": 1911550,
+          "bitrate_bps": 3823100.0
+        },
+        {
+          "segment_index": 172,
+          "filename": "0-172.m4s",
+          "duration": 4.0,
+          "size_bytes": 1480417,
+          "bitrate_bps": 2960834.0
+        },
+        {
+          "segment_index": 173,
+          "filename": "0-173.m4s",
+          "duration": 4.0,
+          "size_bytes": 1271606,
+          "bitrate_bps": 2543212.0
+        },
+        {
+          "segment_index": 174,
+          "filename": "0-174.m4s",
+          "duration": 4.0,
+          "size_bytes": 1361445,
+          "bitrate_bps": 2722890.0
+        },
+        {
+          "segment_index": 175,
+          "filename": "0-175.m4s",
+          "duration": 4.0,
+          "size_bytes": 1654921,
+          "bitrate_bps": 3309842.0
+        },
+        {
+          "segment_index": 176,
+          "filename": "0-176.m4s",
+          "duration": 4.0,
+          "size_bytes": 1478158,
+          "bitrate_bps": 2956316.0
+        },
+        {
+          "segment_index": 177,
+          "filename": "0-177.m4s",
+          "duration": 4.0,
+          "size_bytes": 1390297,
+          "bitrate_bps": 2780594.0
+        },
+        {
+          "segment_index": 178,
+          "filename": "0-178.m4s",
+          "duration": 4.0,
+          "size_bytes": 1505408,
+          "bitrate_bps": 3010816.0
+        },
+        {
+          "segment_index": 179,
+          "filename": "0-179.m4s",
+          "duration": 4.0,
+          "size_bytes": 1463480,
+          "bitrate_bps": 2926960.0
+        },
+        {
+          "segment_index": 180,
+          "filename": "0-180.m4s",
+          "duration": 4.0,
+          "size_bytes": 1294739,
+          "bitrate_bps": 2589478.0
+        },
+        {
+          "segment_index": 181,
+          "filename": "0-181.m4s",
+          "duration": 4.0,
+          "size_bytes": 1835987,
+          "bitrate_bps": 3671974.0
+        },
+        {
+          "segment_index": 182,
+          "filename": "0-182.m4s",
+          "duration": 4.0,
+          "size_bytes": 1570981,
+          "bitrate_bps": 3141962.0
+        },
+        {
+          "segment_index": 183,
+          "filename": "0-183.m4s",
+          "duration": 4.0,
+          "size_bytes": 1635562,
+          "bitrate_bps": 3271124.0
+        },
+        {
+          "segment_index": 184,
+          "filename": "0-184.m4s",
+          "duration": 4.0,
+          "size_bytes": 1542272,
+          "bitrate_bps": 3084544.0
+        },
+        {
+          "segment_index": 185,
+          "filename": "0-185.m4s",
+          "duration": 4.0,
+          "size_bytes": 1750995,
+          "bitrate_bps": 3501990.0
+        },
+        {
+          "segment_index": 186,
+          "filename": "0-186.m4s",
+          "duration": 4.0,
+          "size_bytes": 1440842,
+          "bitrate_bps": 2881684.0
+        },
+        {
+          "segment_index": 187,
+          "filename": "0-187.m4s",
+          "duration": 4.0,
+          "size_bytes": 1479966,
+          "bitrate_bps": 2959932.0
+        },
+        {
+          "segment_index": 188,
+          "filename": "0-188.m4s",
+          "duration": 4.0,
+          "size_bytes": 1566460,
+          "bitrate_bps": 3132920.0
+        },
+        {
+          "segment_index": 189,
+          "filename": "0-189.m4s",
+          "duration": 4.0,
+          "size_bytes": 1550269,
+          "bitrate_bps": 3100538.0
+        },
+        {
+          "segment_index": 190,
+          "filename": "0-190.m4s",
+          "duration": 4.0,
+          "size_bytes": 1583242,
+          "bitrate_bps": 3166484.0
+        },
+        {
+          "segment_index": 191,
+          "filename": "0-191.m4s",
+          "duration": 4.0,
+          "size_bytes": 1475375,
+          "bitrate_bps": 2950750.0
+        },
+        {
+          "segment_index": 192,
+          "filename": "0-192.m4s",
+          "duration": 4.0,
+          "size_bytes": 1671075,
+          "bitrate_bps": 3342150.0
+        },
+        {
+          "segment_index": 193,
+          "filename": "0-193.m4s",
+          "duration": 2.1,
+          "size_bytes": 520864,
+          "bitrate_bps": 1984243.8095238095
+        }
+      ]
+    },
+    "720p": {
+      "codec": "avc1.64001f",
+      "width": 1280,
+      "height": 720,
+      "fps": 30.0,
+      "nominal_bandwidth": 5134888,
+      "segments": [
+        {
+          "segment_index": 1,
+          "filename": "0-1.m4s",
+          "duration": 4.0,
+          "size_bytes": 1615359,
+          "bitrate_bps": 3230718.0
+        },
+        {
+          "segment_index": 2,
+          "filename": "0-2.m4s",
+          "duration": 4.0,
+          "size_bytes": 2511181,
+          "bitrate_bps": 5022362.0
+        },
+        {
+          "segment_index": 3,
+          "filename": "0-3.m4s",
+          "duration": 4.0,
+          "size_bytes": 2110289,
+          "bitrate_bps": 4220578.0
+        },
+        {
+          "segment_index": 4,
+          "filename": "0-4.m4s",
+          "duration": 4.0,
+          "size_bytes": 2156835,
+          "bitrate_bps": 4313670.0
+        },
+        {
+          "segment_index": 5,
+          "filename": "0-5.m4s",
+          "duration": 4.0,
+          "size_bytes": 1985578,
+          "bitrate_bps": 3971156.0
+        },
+        {
+          "segment_index": 6,
+          "filename": "0-6.m4s",
+          "duration": 4.0,
+          "size_bytes": 2303660,
+          "bitrate_bps": 4607320.0
+        },
+        {
+          "segment_index": 7,
+          "filename": "0-7.m4s",
+          "duration": 4.0,
+          "size_bytes": 2254488,
+          "bitrate_bps": 4508976.0
+        },
+        {
+          "segment_index": 8,
+          "filename": "0-8.m4s",
+          "duration": 4.0,
+          "size_bytes": 2913548,
+          "bitrate_bps": 5827096.0
+        },
+        {
+          "segment_index": 9,
+          "filename": "0-9.m4s",
+          "duration": 4.0,
+          "size_bytes": 2107288,
+          "bitrate_bps": 4214576.0
+        },
+        {
+          "segment_index": 10,
+          "filename": "0-10.m4s",
+          "duration": 4.0,
+          "size_bytes": 2334677,
+          "bitrate_bps": 4669354.0
+        },
+        {
+          "segment_index": 11,
+          "filename": "0-11.m4s",
+          "duration": 4.0,
+          "size_bytes": 2519101,
+          "bitrate_bps": 5038202.0
+        },
+        {
+          "segment_index": 12,
+          "filename": "0-12.m4s",
+          "duration": 4.0,
+          "size_bytes": 2602502,
+          "bitrate_bps": 5205004.0
+        },
+        {
+          "segment_index": 13,
+          "filename": "0-13.m4s",
+          "duration": 4.0,
+          "size_bytes": 2749290,
+          "bitrate_bps": 5498580.0
+        },
+        {
+          "segment_index": 14,
+          "filename": "0-14.m4s",
+          "duration": 4.0,
+          "size_bytes": 2636058,
+          "bitrate_bps": 5272116.0
+        },
+        {
+          "segment_index": 15,
+          "filename": "0-15.m4s",
+          "duration": 4.0,
+          "size_bytes": 2203868,
+          "bitrate_bps": 4407736.0
+        },
+        {
+          "segment_index": 16,
+          "filename": "0-16.m4s",
+          "duration": 4.0,
+          "size_bytes": 2419984,
+          "bitrate_bps": 4839968.0
+        },
+        {
+          "segment_index": 17,
+          "filename": "0-17.m4s",
+          "duration": 4.0,
+          "size_bytes": 2112394,
+          "bitrate_bps": 4224788.0
+        },
+        {
+          "segment_index": 18,
+          "filename": "0-18.m4s",
+          "duration": 4.0,
+          "size_bytes": 2505642,
+          "bitrate_bps": 5011284.0
+        },
+        {
+          "segment_index": 19,
+          "filename": "0-19.m4s",
+          "duration": 4.0,
+          "size_bytes": 3098576,
+          "bitrate_bps": 6197152.0
+        },
+        {
+          "segment_index": 20,
+          "filename": "0-20.m4s",
+          "duration": 4.0,
+          "size_bytes": 2392693,
+          "bitrate_bps": 4785386.0
+        },
+        {
+          "segment_index": 21,
+          "filename": "0-21.m4s",
+          "duration": 4.0,
+          "size_bytes": 2159252,
+          "bitrate_bps": 4318504.0
+        },
+        {
+          "segment_index": 22,
+          "filename": "0-22.m4s",
+          "duration": 4.0,
+          "size_bytes": 2381158,
+          "bitrate_bps": 4762316.0
+        },
+        {
+          "segment_index": 23,
+          "filename": "0-23.m4s",
+          "duration": 4.0,
+          "size_bytes": 2475057,
+          "bitrate_bps": 4950114.0
+        },
+        {
+          "segment_index": 24,
+          "filename": "0-24.m4s",
+          "duration": 4.0,
+          "size_bytes": 2392341,
+          "bitrate_bps": 4784682.0
+        },
+        {
+          "segment_index": 25,
+          "filename": "0-25.m4s",
+          "duration": 4.0,
+          "size_bytes": 2783031,
+          "bitrate_bps": 5566062.0
+        },
+        {
+          "segment_index": 26,
+          "filename": "0-26.m4s",
+          "duration": 4.0,
+          "size_bytes": 2932967,
+          "bitrate_bps": 5865934.0
+        },
+        {
+          "segment_index": 27,
+          "filename": "0-27.m4s",
+          "duration": 4.0,
+          "size_bytes": 2246396,
+          "bitrate_bps": 4492792.0
+        },
+        {
+          "segment_index": 28,
+          "filename": "0-28.m4s",
+          "duration": 4.0,
+          "size_bytes": 2449465,
+          "bitrate_bps": 4898930.0
+        },
+        {
+          "segment_index": 29,
+          "filename": "0-29.m4s",
+          "duration": 4.0,
+          "size_bytes": 2569143,
+          "bitrate_bps": 5138286.0
+        },
+        {
+          "segment_index": 30,
+          "filename": "0-30.m4s",
+          "duration": 4.0,
+          "size_bytes": 2228277,
+          "bitrate_bps": 4456554.0
+        },
+        {
+          "segment_index": 31,
+          "filename": "0-31.m4s",
+          "duration": 4.0,
+          "size_bytes": 2283339,
+          "bitrate_bps": 4566678.0
+        },
+        {
+          "segment_index": 32,
+          "filename": "0-32.m4s",
+          "duration": 4.0,
+          "size_bytes": 2039450,
+          "bitrate_bps": 4078900.0
+        },
+        {
+          "segment_index": 33,
+          "filename": "0-33.m4s",
+          "duration": 4.0,
+          "size_bytes": 2315288,
+          "bitrate_bps": 4630576.0
+        },
+        {
+          "segment_index": 34,
+          "filename": "0-34.m4s",
+          "duration": 4.0,
+          "size_bytes": 2354830,
+          "bitrate_bps": 4709660.0
+        },
+        {
+          "segment_index": 35,
+          "filename": "0-35.m4s",
+          "duration": 4.0,
+          "size_bytes": 3087483,
+          "bitrate_bps": 6174966.0
+        },
+        {
+          "segment_index": 36,
+          "filename": "0-36.m4s",
+          "duration": 4.0,
+          "size_bytes": 3097397,
+          "bitrate_bps": 6194794.0
+        },
+        {
+          "segment_index": 37,
+          "filename": "0-37.m4s",
+          "duration": 4.0,
+          "size_bytes": 2715514,
+          "bitrate_bps": 5431028.0
+        },
+        {
+          "segment_index": 38,
+          "filename": "0-38.m4s",
+          "duration": 4.0,
+          "size_bytes": 2414844,
+          "bitrate_bps": 4829688.0
+        },
+        {
+          "segment_index": 39,
+          "filename": "0-39.m4s",
+          "duration": 4.0,
+          "size_bytes": 3285347,
+          "bitrate_bps": 6570694.0
+        },
+        {
+          "segment_index": 40,
+          "filename": "0-40.m4s",
+          "duration": 4.0,
+          "size_bytes": 3669020,
+          "bitrate_bps": 7338040.0
+        },
+        {
+          "segment_index": 41,
+          "filename": "0-41.m4s",
+          "duration": 4.0,
+          "size_bytes": 3147878,
+          "bitrate_bps": 6295756.0
+        },
+        {
+          "segment_index": 42,
+          "filename": "0-42.m4s",
+          "duration": 4.0,
+          "size_bytes": 2829235,
+          "bitrate_bps": 5658470.0
+        },
+        {
+          "segment_index": 43,
+          "filename": "0-43.m4s",
+          "duration": 4.0,
+          "size_bytes": 2799546,
+          "bitrate_bps": 5599092.0
+        },
+        {
+          "segment_index": 44,
+          "filename": "0-44.m4s",
+          "duration": 4.0,
+          "size_bytes": 2438813,
+          "bitrate_bps": 4877626.0
+        },
+        {
+          "segment_index": 45,
+          "filename": "0-45.m4s",
+          "duration": 4.0,
+          "size_bytes": 2554726,
+          "bitrate_bps": 5109452.0
+        },
+        {
+          "segment_index": 46,
+          "filename": "0-46.m4s",
+          "duration": 4.0,
+          "size_bytes": 2572641,
+          "bitrate_bps": 5145282.0
+        },
+        {
+          "segment_index": 47,
+          "filename": "0-47.m4s",
+          "duration": 4.0,
+          "size_bytes": 2961859,
+          "bitrate_bps": 5923718.0
+        },
+        {
+          "segment_index": 48,
+          "filename": "0-48.m4s",
+          "duration": 4.0,
+          "size_bytes": 3002471,
+          "bitrate_bps": 6004942.0
+        },
+        {
+          "segment_index": 49,
+          "filename": "0-49.m4s",
+          "duration": 4.0,
+          "size_bytes": 2598837,
+          "bitrate_bps": 5197674.0
+        },
+        {
+          "segment_index": 50,
+          "filename": "0-50.m4s",
+          "duration": 4.0,
+          "size_bytes": 2248659,
+          "bitrate_bps": 4497318.0
+        },
+        {
+          "segment_index": 51,
+          "filename": "0-51.m4s",
+          "duration": 4.0,
+          "size_bytes": 2375889,
+          "bitrate_bps": 4751778.0
+        },
+        {
+          "segment_index": 52,
+          "filename": "0-52.m4s",
+          "duration": 4.0,
+          "size_bytes": 2205929,
+          "bitrate_bps": 4411858.0
+        },
+        {
+          "segment_index": 53,
+          "filename": "0-53.m4s",
+          "duration": 4.0,
+          "size_bytes": 2442221,
+          "bitrate_bps": 4884442.0
+        },
+        {
+          "segment_index": 54,
+          "filename": "0-54.m4s",
+          "duration": 4.0,
+          "size_bytes": 2227807,
+          "bitrate_bps": 4455614.0
+        },
+        {
+          "segment_index": 55,
+          "filename": "0-55.m4s",
+          "duration": 4.0,
+          "size_bytes": 2267363,
+          "bitrate_bps": 4534726.0
+        },
+        {
+          "segment_index": 56,
+          "filename": "0-56.m4s",
+          "duration": 4.0,
+          "size_bytes": 2614478,
+          "bitrate_bps": 5228956.0
+        },
+        {
+          "segment_index": 57,
+          "filename": "0-57.m4s",
+          "duration": 4.0,
+          "size_bytes": 2686943,
+          "bitrate_bps": 5373886.0
+        },
+        {
+          "segment_index": 58,
+          "filename": "0-58.m4s",
+          "duration": 4.0,
+          "size_bytes": 2685865,
+          "bitrate_bps": 5371730.0
+        },
+        {
+          "segment_index": 59,
+          "filename": "0-59.m4s",
+          "duration": 4.0,
+          "size_bytes": 2562128,
+          "bitrate_bps": 5124256.0
+        },
+        {
+          "segment_index": 60,
+          "filename": "0-60.m4s",
+          "duration": 4.0,
+          "size_bytes": 2587721,
+          "bitrate_bps": 5175442.0
+        },
+        {
+          "segment_index": 61,
+          "filename": "0-61.m4s",
+          "duration": 4.0,
+          "size_bytes": 2283810,
+          "bitrate_bps": 4567620.0
+        },
+        {
+          "segment_index": 62,
+          "filename": "0-62.m4s",
+          "duration": 4.0,
+          "size_bytes": 2149753,
+          "bitrate_bps": 4299506.0
+        },
+        {
+          "segment_index": 63,
+          "filename": "0-63.m4s",
+          "duration": 4.0,
+          "size_bytes": 2311785,
+          "bitrate_bps": 4623570.0
+        },
+        {
+          "segment_index": 64,
+          "filename": "0-64.m4s",
+          "duration": 4.0,
+          "size_bytes": 2757841,
+          "bitrate_bps": 5515682.0
+        },
+        {
+          "segment_index": 65,
+          "filename": "0-65.m4s",
+          "duration": 4.0,
+          "size_bytes": 2629412,
+          "bitrate_bps": 5258824.0
+        },
+        {
+          "segment_index": 66,
+          "filename": "0-66.m4s",
+          "duration": 4.0,
+          "size_bytes": 2390308,
+          "bitrate_bps": 4780616.0
+        },
+        {
+          "segment_index": 67,
+          "filename": "0-67.m4s",
+          "duration": 4.0,
+          "size_bytes": 3006744,
+          "bitrate_bps": 6013488.0
+        },
+        {
+          "segment_index": 68,
+          "filename": "0-68.m4s",
+          "duration": 4.0,
+          "size_bytes": 3118154,
+          "bitrate_bps": 6236308.0
+        },
+        {
+          "segment_index": 69,
+          "filename": "0-69.m4s",
+          "duration": 4.0,
+          "size_bytes": 2427004,
+          "bitrate_bps": 4854008.0
+        },
+        {
+          "segment_index": 70,
+          "filename": "0-70.m4s",
+          "duration": 4.0,
+          "size_bytes": 2570705,
+          "bitrate_bps": 5141410.0
+        },
+        {
+          "segment_index": 71,
+          "filename": "0-71.m4s",
+          "duration": 4.0,
+          "size_bytes": 1906036,
+          "bitrate_bps": 3812072.0
+        },
+        {
+          "segment_index": 72,
+          "filename": "0-72.m4s",
+          "duration": 4.0,
+          "size_bytes": 2725874,
+          "bitrate_bps": 5451748.0
+        },
+        {
+          "segment_index": 73,
+          "filename": "0-73.m4s",
+          "duration": 4.0,
+          "size_bytes": 2798366,
+          "bitrate_bps": 5596732.0
+        },
+        {
+          "segment_index": 74,
+          "filename": "0-74.m4s",
+          "duration": 4.0,
+          "size_bytes": 2856195,
+          "bitrate_bps": 5712390.0
+        },
+        {
+          "segment_index": 75,
+          "filename": "0-75.m4s",
+          "duration": 4.0,
+          "size_bytes": 2493462,
+          "bitrate_bps": 4986924.0
+        },
+        {
+          "segment_index": 76,
+          "filename": "0-76.m4s",
+          "duration": 4.0,
+          "size_bytes": 2591414,
+          "bitrate_bps": 5182828.0
+        },
+        {
+          "segment_index": 77,
+          "filename": "0-77.m4s",
+          "duration": 4.0,
+          "size_bytes": 2720262,
+          "bitrate_bps": 5440524.0
+        },
+        {
+          "segment_index": 78,
+          "filename": "0-78.m4s",
+          "duration": 4.0,
+          "size_bytes": 2826653,
+          "bitrate_bps": 5653306.0
+        },
+        {
+          "segment_index": 79,
+          "filename": "0-79.m4s",
+          "duration": 4.0,
+          "size_bytes": 2400246,
+          "bitrate_bps": 4800492.0
+        },
+        {
+          "segment_index": 80,
+          "filename": "0-80.m4s",
+          "duration": 4.0,
+          "size_bytes": 2677624,
+          "bitrate_bps": 5355248.0
+        },
+        {
+          "segment_index": 81,
+          "filename": "0-81.m4s",
+          "duration": 4.0,
+          "size_bytes": 2650463,
+          "bitrate_bps": 5300926.0
+        },
+        {
+          "segment_index": 82,
+          "filename": "0-82.m4s",
+          "duration": 4.0,
+          "size_bytes": 2672344,
+          "bitrate_bps": 5344688.0
+        },
+        {
+          "segment_index": 83,
+          "filename": "0-83.m4s",
+          "duration": 4.0,
+          "size_bytes": 2258707,
+          "bitrate_bps": 4517414.0
+        },
+        {
+          "segment_index": 84,
+          "filename": "0-84.m4s",
+          "duration": 4.0,
+          "size_bytes": 2489675,
+          "bitrate_bps": 4979350.0
+        },
+        {
+          "segment_index": 85,
+          "filename": "0-85.m4s",
+          "duration": 4.0,
+          "size_bytes": 2802599,
+          "bitrate_bps": 5605198.0
+        },
+        {
+          "segment_index": 86,
+          "filename": "0-86.m4s",
+          "duration": 4.0,
+          "size_bytes": 2599450,
+          "bitrate_bps": 5198900.0
+        },
+        {
+          "segment_index": 87,
+          "filename": "0-87.m4s",
+          "duration": 4.0,
+          "size_bytes": 2733336,
+          "bitrate_bps": 5466672.0
+        },
+        {
+          "segment_index": 88,
+          "filename": "0-88.m4s",
+          "duration": 4.0,
+          "size_bytes": 2449482,
+          "bitrate_bps": 4898964.0
+        },
+        {
+          "segment_index": 89,
+          "filename": "0-89.m4s",
+          "duration": 4.0,
+          "size_bytes": 3146544,
+          "bitrate_bps": 6293088.0
+        },
+        {
+          "segment_index": 90,
+          "filename": "0-90.m4s",
+          "duration": 4.0,
+          "size_bytes": 2534667,
+          "bitrate_bps": 5069334.0
+        },
+        {
+          "segment_index": 91,
+          "filename": "0-91.m4s",
+          "duration": 4.0,
+          "size_bytes": 2433535,
+          "bitrate_bps": 4867070.0
+        },
+        {
+          "segment_index": 92,
+          "filename": "0-92.m4s",
+          "duration": 4.0,
+          "size_bytes": 2160190,
+          "bitrate_bps": 4320380.0
+        },
+        {
+          "segment_index": 93,
+          "filename": "0-93.m4s",
+          "duration": 4.0,
+          "size_bytes": 2149052,
+          "bitrate_bps": 4298104.0
+        },
+        {
+          "segment_index": 94,
+          "filename": "0-94.m4s",
+          "duration": 4.0,
+          "size_bytes": 2795306,
+          "bitrate_bps": 5590612.0
+        },
+        {
+          "segment_index": 95,
+          "filename": "0-95.m4s",
+          "duration": 4.0,
+          "size_bytes": 2163757,
+          "bitrate_bps": 4327514.0
+        },
+        {
+          "segment_index": 96,
+          "filename": "0-96.m4s",
+          "duration": 4.0,
+          "size_bytes": 2808919,
+          "bitrate_bps": 5617838.0
+        },
+        {
+          "segment_index": 97,
+          "filename": "0-97.m4s",
+          "duration": 4.0,
+          "size_bytes": 2483560,
+          "bitrate_bps": 4967120.0
+        },
+        {
+          "segment_index": 98,
+          "filename": "0-98.m4s",
+          "duration": 4.0,
+          "size_bytes": 2353751,
+          "bitrate_bps": 4707502.0
+        },
+        {
+          "segment_index": 99,
+          "filename": "0-99.m4s",
+          "duration": 4.0,
+          "size_bytes": 2358411,
+          "bitrate_bps": 4716822.0
+        },
+        {
+          "segment_index": 100,
+          "filename": "0-100.m4s",
+          "duration": 4.0,
+          "size_bytes": 2307981,
+          "bitrate_bps": 4615962.0
+        },
+        {
+          "segment_index": 101,
+          "filename": "0-101.m4s",
+          "duration": 4.0,
+          "size_bytes": 2844614,
+          "bitrate_bps": 5689228.0
+        },
+        {
+          "segment_index": 102,
+          "filename": "0-102.m4s",
+          "duration": 4.0,
+          "size_bytes": 2857103,
+          "bitrate_bps": 5714206.0
+        },
+        {
+          "segment_index": 103,
+          "filename": "0-103.m4s",
+          "duration": 4.0,
+          "size_bytes": 2262200,
+          "bitrate_bps": 4524400.0
+        },
+        {
+          "segment_index": 104,
+          "filename": "0-104.m4s",
+          "duration": 4.0,
+          "size_bytes": 2866141,
+          "bitrate_bps": 5732282.0
+        },
+        {
+          "segment_index": 105,
+          "filename": "0-105.m4s",
+          "duration": 4.0,
+          "size_bytes": 2160350,
+          "bitrate_bps": 4320700.0
+        },
+        {
+          "segment_index": 106,
+          "filename": "0-106.m4s",
+          "duration": 4.0,
+          "size_bytes": 2004124,
+          "bitrate_bps": 4008248.0
+        },
+        {
+          "segment_index": 107,
+          "filename": "0-107.m4s",
+          "duration": 4.0,
+          "size_bytes": 2118887,
+          "bitrate_bps": 4237774.0
+        },
+        {
+          "segment_index": 108,
+          "filename": "0-108.m4s",
+          "duration": 4.0,
+          "size_bytes": 2580370,
+          "bitrate_bps": 5160740.0
+        },
+        {
+          "segment_index": 109,
+          "filename": "0-109.m4s",
+          "duration": 4.0,
+          "size_bytes": 2263131,
+          "bitrate_bps": 4526262.0
+        },
+        {
+          "segment_index": 110,
+          "filename": "0-110.m4s",
+          "duration": 4.0,
+          "size_bytes": 2007364,
+          "bitrate_bps": 4014728.0
+        },
+        {
+          "segment_index": 111,
+          "filename": "0-111.m4s",
+          "duration": 4.0,
+          "size_bytes": 1867276,
+          "bitrate_bps": 3734552.0
+        },
+        {
+          "segment_index": 112,
+          "filename": "0-112.m4s",
+          "duration": 4.0,
+          "size_bytes": 2108170,
+          "bitrate_bps": 4216340.0
+        },
+        {
+          "segment_index": 113,
+          "filename": "0-113.m4s",
+          "duration": 4.0,
+          "size_bytes": 2097845,
+          "bitrate_bps": 4195690.0
+        },
+        {
+          "segment_index": 114,
+          "filename": "0-114.m4s",
+          "duration": 4.0,
+          "size_bytes": 1850633,
+          "bitrate_bps": 3701266.0
+        },
+        {
+          "segment_index": 115,
+          "filename": "0-115.m4s",
+          "duration": 4.0,
+          "size_bytes": 2281594,
+          "bitrate_bps": 4563188.0
+        },
+        {
+          "segment_index": 116,
+          "filename": "0-116.m4s",
+          "duration": 4.0,
+          "size_bytes": 3031662,
+          "bitrate_bps": 6063324.0
+        },
+        {
+          "segment_index": 117,
+          "filename": "0-117.m4s",
+          "duration": 4.0,
+          "size_bytes": 2891580,
+          "bitrate_bps": 5783160.0
+        },
+        {
+          "segment_index": 118,
+          "filename": "0-118.m4s",
+          "duration": 4.0,
+          "size_bytes": 2458839,
+          "bitrate_bps": 4917678.0
+        },
+        {
+          "segment_index": 119,
+          "filename": "0-119.m4s",
+          "duration": 4.0,
+          "size_bytes": 2348889,
+          "bitrate_bps": 4697778.0
+        },
+        {
+          "segment_index": 120,
+          "filename": "0-120.m4s",
+          "duration": 4.0,
+          "size_bytes": 2566780,
+          "bitrate_bps": 5133560.0
+        },
+        {
+          "segment_index": 121,
+          "filename": "0-121.m4s",
+          "duration": 4.0,
+          "size_bytes": 2040495,
+          "bitrate_bps": 4080990.0
+        },
+        {
+          "segment_index": 122,
+          "filename": "0-122.m4s",
+          "duration": 4.0,
+          "size_bytes": 2405613,
+          "bitrate_bps": 4811226.0
+        },
+        {
+          "segment_index": 123,
+          "filename": "0-123.m4s",
+          "duration": 4.0,
+          "size_bytes": 2810666,
+          "bitrate_bps": 5621332.0
+        },
+        {
+          "segment_index": 124,
+          "filename": "0-124.m4s",
+          "duration": 4.0,
+          "size_bytes": 2478272,
+          "bitrate_bps": 4956544.0
+        },
+        {
+          "segment_index": 125,
+          "filename": "0-125.m4s",
+          "duration": 4.0,
+          "size_bytes": 2366221,
+          "bitrate_bps": 4732442.0
+        },
+        {
+          "segment_index": 126,
+          "filename": "0-126.m4s",
+          "duration": 4.0,
+          "size_bytes": 2725868,
+          "bitrate_bps": 5451736.0
+        },
+        {
+          "segment_index": 127,
+          "filename": "0-127.m4s",
+          "duration": 4.0,
+          "size_bytes": 2431852,
+          "bitrate_bps": 4863704.0
+        },
+        {
+          "segment_index": 128,
+          "filename": "0-128.m4s",
+          "duration": 4.0,
+          "size_bytes": 2273213,
+          "bitrate_bps": 4546426.0
+        },
+        {
+          "segment_index": 129,
+          "filename": "0-129.m4s",
+          "duration": 4.0,
+          "size_bytes": 2701162,
+          "bitrate_bps": 5402324.0
+        },
+        {
+          "segment_index": 130,
+          "filename": "0-130.m4s",
+          "duration": 4.0,
+          "size_bytes": 2627360,
+          "bitrate_bps": 5254720.0
+        },
+        {
+          "segment_index": 131,
+          "filename": "0-131.m4s",
+          "duration": 4.0,
+          "size_bytes": 2831569,
+          "bitrate_bps": 5663138.0
+        },
+        {
+          "segment_index": 132,
+          "filename": "0-132.m4s",
+          "duration": 4.0,
+          "size_bytes": 2019877,
+          "bitrate_bps": 4039754.0
+        },
+        {
+          "segment_index": 133,
+          "filename": "0-133.m4s",
+          "duration": 4.0,
+          "size_bytes": 2143863,
+          "bitrate_bps": 4287726.0
+        },
+        {
+          "segment_index": 134,
+          "filename": "0-134.m4s",
+          "duration": 4.0,
+          "size_bytes": 3182943,
+          "bitrate_bps": 6365886.0
+        },
+        {
+          "segment_index": 135,
+          "filename": "0-135.m4s",
+          "duration": 4.0,
+          "size_bytes": 3062421,
+          "bitrate_bps": 6124842.0
+        },
+        {
+          "segment_index": 136,
+          "filename": "0-136.m4s",
+          "duration": 4.0,
+          "size_bytes": 2652913,
+          "bitrate_bps": 5305826.0
+        },
+        {
+          "segment_index": 137,
+          "filename": "0-137.m4s",
+          "duration": 4.0,
+          "size_bytes": 2849034,
+          "bitrate_bps": 5698068.0
+        },
+        {
+          "segment_index": 138,
+          "filename": "0-138.m4s",
+          "duration": 4.0,
+          "size_bytes": 2695233,
+          "bitrate_bps": 5390466.0
+        },
+        {
+          "segment_index": 139,
+          "filename": "0-139.m4s",
+          "duration": 4.0,
+          "size_bytes": 2466287,
+          "bitrate_bps": 4932574.0
+        },
+        {
+          "segment_index": 140,
+          "filename": "0-140.m4s",
+          "duration": 4.0,
+          "size_bytes": 2425190,
+          "bitrate_bps": 4850380.0
+        },
+        {
+          "segment_index": 141,
+          "filename": "0-141.m4s",
+          "duration": 4.0,
+          "size_bytes": 2480595,
+          "bitrate_bps": 4961190.0
+        },
+        {
+          "segment_index": 142,
+          "filename": "0-142.m4s",
+          "duration": 4.0,
+          "size_bytes": 2347373,
+          "bitrate_bps": 4694746.0
+        },
+        {
+          "segment_index": 143,
+          "filename": "0-143.m4s",
+          "duration": 4.0,
+          "size_bytes": 2679619,
+          "bitrate_bps": 5359238.0
+        },
+        {
+          "segment_index": 144,
+          "filename": "0-144.m4s",
+          "duration": 4.0,
+          "size_bytes": 2344917,
+          "bitrate_bps": 4689834.0
+        },
+        {
+          "segment_index": 145,
+          "filename": "0-145.m4s",
+          "duration": 4.0,
+          "size_bytes": 2462622,
+          "bitrate_bps": 4925244.0
+        },
+        {
+          "segment_index": 146,
+          "filename": "0-146.m4s",
+          "duration": 4.0,
+          "size_bytes": 2368979,
+          "bitrate_bps": 4737958.0
+        },
+        {
+          "segment_index": 147,
+          "filename": "0-147.m4s",
+          "duration": 4.0,
+          "size_bytes": 2295003,
+          "bitrate_bps": 4590006.0
+        },
+        {
+          "segment_index": 148,
+          "filename": "0-148.m4s",
+          "duration": 4.0,
+          "size_bytes": 2167508,
+          "bitrate_bps": 4335016.0
+        },
+        {
+          "segment_index": 149,
+          "filename": "0-149.m4s",
+          "duration": 4.0,
+          "size_bytes": 2551039,
+          "bitrate_bps": 5102078.0
+        },
+        {
+          "segment_index": 150,
+          "filename": "0-150.m4s",
+          "duration": 4.0,
+          "size_bytes": 2515160,
+          "bitrate_bps": 5030320.0
+        },
+        {
+          "segment_index": 151,
+          "filename": "0-151.m4s",
+          "duration": 4.0,
+          "size_bytes": 2392264,
+          "bitrate_bps": 4784528.0
+        },
+        {
+          "segment_index": 152,
+          "filename": "0-152.m4s",
+          "duration": 4.0,
+          "size_bytes": 2588521,
+          "bitrate_bps": 5177042.0
+        },
+        {
+          "segment_index": 153,
+          "filename": "0-153.m4s",
+          "duration": 4.0,
+          "size_bytes": 2389255,
+          "bitrate_bps": 4778510.0
+        },
+        {
+          "segment_index": 154,
+          "filename": "0-154.m4s",
+          "duration": 4.0,
+          "size_bytes": 2751324,
+          "bitrate_bps": 5502648.0
+        },
+        {
+          "segment_index": 155,
+          "filename": "0-155.m4s",
+          "duration": 4.0,
+          "size_bytes": 2650647,
+          "bitrate_bps": 5301294.0
+        },
+        {
+          "segment_index": 156,
+          "filename": "0-156.m4s",
+          "duration": 4.0,
+          "size_bytes": 2286721,
+          "bitrate_bps": 4573442.0
+        },
+        {
+          "segment_index": 157,
+          "filename": "0-157.m4s",
+          "duration": 4.0,
+          "size_bytes": 2786613,
+          "bitrate_bps": 5573226.0
+        },
+        {
+          "segment_index": 158,
+          "filename": "0-158.m4s",
+          "duration": 4.0,
+          "size_bytes": 2449539,
+          "bitrate_bps": 4899078.0
+        },
+        {
+          "segment_index": 159,
+          "filename": "0-159.m4s",
+          "duration": 4.0,
+          "size_bytes": 2827551,
+          "bitrate_bps": 5655102.0
+        },
+        {
+          "segment_index": 160,
+          "filename": "0-160.m4s",
+          "duration": 4.0,
+          "size_bytes": 2961631,
+          "bitrate_bps": 5923262.0
+        },
+        {
+          "segment_index": 161,
+          "filename": "0-161.m4s",
+          "duration": 4.0,
+          "size_bytes": 2509501,
+          "bitrate_bps": 5019002.0
+        },
+        {
+          "segment_index": 162,
+          "filename": "0-162.m4s",
+          "duration": 4.0,
+          "size_bytes": 2520550,
+          "bitrate_bps": 5041100.0
+        },
+        {
+          "segment_index": 163,
+          "filename": "0-163.m4s",
+          "duration": 4.0,
+          "size_bytes": 2327070,
+          "bitrate_bps": 4654140.0
+        },
+        {
+          "segment_index": 164,
+          "filename": "0-164.m4s",
+          "duration": 4.0,
+          "size_bytes": 2290251,
+          "bitrate_bps": 4580502.0
+        },
+        {
+          "segment_index": 165,
+          "filename": "0-165.m4s",
+          "duration": 4.0,
+          "size_bytes": 2322619,
+          "bitrate_bps": 4645238.0
+        },
+        {
+          "segment_index": 166,
+          "filename": "0-166.m4s",
+          "duration": 4.0,
+          "size_bytes": 1905769,
+          "bitrate_bps": 3811538.0
+        },
+        {
+          "segment_index": 167,
+          "filename": "0-167.m4s",
+          "duration": 4.0,
+          "size_bytes": 2529753,
+          "bitrate_bps": 5059506.0
+        },
+        {
+          "segment_index": 168,
+          "filename": "0-168.m4s",
+          "duration": 4.0,
+          "size_bytes": 2288709,
+          "bitrate_bps": 4577418.0
+        },
+        {
+          "segment_index": 169,
+          "filename": "0-169.m4s",
+          "duration": 4.0,
+          "size_bytes": 2312181,
+          "bitrate_bps": 4624362.0
+        },
+        {
+          "segment_index": 170,
+          "filename": "0-170.m4s",
+          "duration": 4.0,
+          "size_bytes": 2709817,
+          "bitrate_bps": 5419634.0
+        },
+        {
+          "segment_index": 171,
+          "filename": "0-171.m4s",
+          "duration": 4.0,
+          "size_bytes": 3806018,
+          "bitrate_bps": 7612036.0
+        },
+        {
+          "segment_index": 172,
+          "filename": "0-172.m4s",
+          "duration": 4.0,
+          "size_bytes": 2954348,
+          "bitrate_bps": 5908696.0
+        },
+        {
+          "segment_index": 173,
+          "filename": "0-173.m4s",
+          "duration": 4.0,
+          "size_bytes": 2523212,
+          "bitrate_bps": 5046424.0
+        },
+        {
+          "segment_index": 174,
+          "filename": "0-174.m4s",
+          "duration": 4.0,
+          "size_bytes": 2687550,
+          "bitrate_bps": 5375100.0
+        },
+        {
+          "segment_index": 175,
+          "filename": "0-175.m4s",
+          "duration": 4.0,
+          "size_bytes": 3289611,
+          "bitrate_bps": 6579222.0
+        },
+        {
+          "segment_index": 176,
+          "filename": "0-176.m4s",
+          "duration": 4.0,
+          "size_bytes": 2909173,
+          "bitrate_bps": 5818346.0
+        },
+        {
+          "segment_index": 177,
+          "filename": "0-177.m4s",
+          "duration": 4.0,
+          "size_bytes": 2747918,
+          "bitrate_bps": 5495836.0
+        },
+        {
+          "segment_index": 178,
+          "filename": "0-178.m4s",
+          "duration": 4.0,
+          "size_bytes": 2984605,
+          "bitrate_bps": 5969210.0
+        },
+        {
+          "segment_index": 179,
+          "filename": "0-179.m4s",
+          "duration": 4.0,
+          "size_bytes": 2907014,
+          "bitrate_bps": 5814028.0
+        },
+        {
+          "segment_index": 180,
+          "filename": "0-180.m4s",
+          "duration": 4.0,
+          "size_bytes": 2571145,
+          "bitrate_bps": 5142290.0
+        },
+        {
+          "segment_index": 181,
+          "filename": "0-181.m4s",
+          "duration": 4.0,
+          "size_bytes": 3709516,
+          "bitrate_bps": 7419032.0
+        },
+        {
+          "segment_index": 182,
+          "filename": "0-182.m4s",
+          "duration": 4.0,
+          "size_bytes": 3169058,
+          "bitrate_bps": 6338116.0
+        },
+        {
+          "segment_index": 183,
+          "filename": "0-183.m4s",
+          "duration": 4.0,
+          "size_bytes": 3294152,
+          "bitrate_bps": 6588304.0
+        },
+        {
+          "segment_index": 184,
+          "filename": "0-184.m4s",
+          "duration": 4.0,
+          "size_bytes": 3078756,
+          "bitrate_bps": 6157512.0
+        },
+        {
+          "segment_index": 185,
+          "filename": "0-185.m4s",
+          "duration": 4.0,
+          "size_bytes": 3492269,
+          "bitrate_bps": 6984538.0
+        },
+        {
+          "segment_index": 186,
+          "filename": "0-186.m4s",
+          "duration": 4.0,
+          "size_bytes": 2897529,
+          "bitrate_bps": 5795058.0
+        },
+        {
+          "segment_index": 187,
+          "filename": "0-187.m4s",
+          "duration": 4.0,
+          "size_bytes": 2975986,
+          "bitrate_bps": 5951972.0
+        },
+        {
+          "segment_index": 188,
+          "filename": "0-188.m4s",
+          "duration": 4.0,
+          "size_bytes": 3146764,
+          "bitrate_bps": 6293528.0
+        },
+        {
+          "segment_index": 189,
+          "filename": "0-189.m4s",
+          "duration": 4.0,
+          "size_bytes": 3116394,
+          "bitrate_bps": 6232788.0
+        },
+        {
+          "segment_index": 190,
+          "filename": "0-190.m4s",
+          "duration": 4.0,
+          "size_bytes": 3160801,
+          "bitrate_bps": 6321602.0
+        },
+        {
+          "segment_index": 191,
+          "filename": "0-191.m4s",
+          "duration": 4.0,
+          "size_bytes": 2970090,
+          "bitrate_bps": 5940180.0
+        },
+        {
+          "segment_index": 192,
+          "filename": "0-192.m4s",
+          "duration": 4.0,
+          "size_bytes": 3219717,
+          "bitrate_bps": 6439434.0
+        },
+        {
+          "segment_index": 193,
+          "filename": "0-193.m4s",
+          "duration": 2.1,
+          "size_bytes": 1019167,
+          "bitrate_bps": 3882540.9523809524
+        }
+      ]
+    },
+    "1080p": {
+      "codec": "avc1.640028",
+      "width": 1920,
+      "height": 1080,
+      "fps": 30.0,
+      "nominal_bandwidth": 8200396,
+      "segments": [
+        {
+          "segment_index": 1,
+          "filename": "0-1.m4s",
+          "duration": 4.0,
+          "size_bytes": 2657755,
+          "bitrate_bps": 5315510.0
+        },
+        {
+          "segment_index": 2,
+          "filename": "0-2.m4s",
+          "duration": 4.0,
+          "size_bytes": 3975491,
+          "bitrate_bps": 7950982.0
+        },
+        {
+          "segment_index": 3,
+          "filename": "0-3.m4s",
+          "duration": 4.0,
+          "size_bytes": 3299446,
+          "bitrate_bps": 6598892.0
+        },
+        {
+          "segment_index": 4,
+          "filename": "0-4.m4s",
+          "duration": 4.0,
+          "size_bytes": 3396137,
+          "bitrate_bps": 6792274.0
+        },
+        {
+          "segment_index": 5,
+          "filename": "0-5.m4s",
+          "duration": 4.0,
+          "size_bytes": 3126472,
+          "bitrate_bps": 6252944.0
+        },
+        {
+          "segment_index": 6,
+          "filename": "0-6.m4s",
+          "duration": 4.0,
+          "size_bytes": 3795925,
+          "bitrate_bps": 7591850.0
+        },
+        {
+          "segment_index": 7,
+          "filename": "0-7.m4s",
+          "duration": 4.0,
+          "size_bytes": 3716086,
+          "bitrate_bps": 7432172.0
+        },
+        {
+          "segment_index": 8,
+          "filename": "0-8.m4s",
+          "duration": 4.0,
+          "size_bytes": 4792244,
+          "bitrate_bps": 9584488.0
+        },
+        {
+          "segment_index": 9,
+          "filename": "0-9.m4s",
+          "duration": 4.0,
+          "size_bytes": 3409510,
+          "bitrate_bps": 6819020.0
+        },
+        {
+          "segment_index": 10,
+          "filename": "0-10.m4s",
+          "duration": 4.0,
+          "size_bytes": 3785845,
+          "bitrate_bps": 7571690.0
+        },
+        {
+          "segment_index": 11,
+          "filename": "0-11.m4s",
+          "duration": 4.0,
+          "size_bytes": 4100174,
+          "bitrate_bps": 8200348.0
+        },
+        {
+          "segment_index": 12,
+          "filename": "0-12.m4s",
+          "duration": 4.0,
+          "size_bytes": 4191527,
+          "bitrate_bps": 8383054.0
+        },
+        {
+          "segment_index": 13,
+          "filename": "0-13.m4s",
+          "duration": 4.0,
+          "size_bytes": 4432240,
+          "bitrate_bps": 8864480.0
+        },
+        {
+          "segment_index": 14,
+          "filename": "0-14.m4s",
+          "duration": 4.0,
+          "size_bytes": 4153559,
+          "bitrate_bps": 8307118.0
+        },
+        {
+          "segment_index": 15,
+          "filename": "0-15.m4s",
+          "duration": 4.0,
+          "size_bytes": 3537636,
+          "bitrate_bps": 7075272.0
+        },
+        {
+          "segment_index": 16,
+          "filename": "0-16.m4s",
+          "duration": 4.0,
+          "size_bytes": 3936607,
+          "bitrate_bps": 7873214.0
+        },
+        {
+          "segment_index": 17,
+          "filename": "0-17.m4s",
+          "duration": 4.0,
+          "size_bytes": 3406629,
+          "bitrate_bps": 6813258.0
+        },
+        {
+          "segment_index": 18,
+          "filename": "0-18.m4s",
+          "duration": 4.0,
+          "size_bytes": 4063906,
+          "bitrate_bps": 8127812.0
+        },
+        {
+          "segment_index": 19,
+          "filename": "0-19.m4s",
+          "duration": 4.0,
+          "size_bytes": 5005015,
+          "bitrate_bps": 10010030.0
+        },
+        {
+          "segment_index": 20,
+          "filename": "0-20.m4s",
+          "duration": 4.0,
+          "size_bytes": 3981631,
+          "bitrate_bps": 7963262.0
+        },
+        {
+          "segment_index": 21,
+          "filename": "0-21.m4s",
+          "duration": 4.0,
+          "size_bytes": 3616638,
+          "bitrate_bps": 7233276.0
+        },
+        {
+          "segment_index": 22,
+          "filename": "0-22.m4s",
+          "duration": 4.0,
+          "size_bytes": 3932858,
+          "bitrate_bps": 7865716.0
+        },
+        {
+          "segment_index": 23,
+          "filename": "0-23.m4s",
+          "duration": 4.0,
+          "size_bytes": 3975259,
+          "bitrate_bps": 7950518.0
+        },
+        {
+          "segment_index": 24,
+          "filename": "0-24.m4s",
+          "duration": 4.0,
+          "size_bytes": 3914232,
+          "bitrate_bps": 7828464.0
+        },
+        {
+          "segment_index": 25,
+          "filename": "0-25.m4s",
+          "duration": 4.0,
+          "size_bytes": 4472836,
+          "bitrate_bps": 8945672.0
+        },
+        {
+          "segment_index": 26,
+          "filename": "0-26.m4s",
+          "duration": 4.0,
+          "size_bytes": 4654012,
+          "bitrate_bps": 9308024.0
+        },
+        {
+          "segment_index": 27,
+          "filename": "0-27.m4s",
+          "duration": 4.0,
+          "size_bytes": 3679683,
+          "bitrate_bps": 7359366.0
+        },
+        {
+          "segment_index": 28,
+          "filename": "0-28.m4s",
+          "duration": 4.0,
+          "size_bytes": 3994172,
+          "bitrate_bps": 7988344.0
+        },
+        {
+          "segment_index": 29,
+          "filename": "0-29.m4s",
+          "duration": 4.0,
+          "size_bytes": 4248160,
+          "bitrate_bps": 8496320.0
+        },
+        {
+          "segment_index": 30,
+          "filename": "0-30.m4s",
+          "duration": 4.0,
+          "size_bytes": 3660754,
+          "bitrate_bps": 7321508.0
+        },
+        {
+          "segment_index": 31,
+          "filename": "0-31.m4s",
+          "duration": 4.0,
+          "size_bytes": 3789209,
+          "bitrate_bps": 7578418.0
+        },
+        {
+          "segment_index": 32,
+          "filename": "0-32.m4s",
+          "duration": 4.0,
+          "size_bytes": 3423015,
+          "bitrate_bps": 6846030.0
+        },
+        {
+          "segment_index": 33,
+          "filename": "0-33.m4s",
+          "duration": 4.0,
+          "size_bytes": 3837086,
+          "bitrate_bps": 7674172.0
+        },
+        {
+          "segment_index": 34,
+          "filename": "0-34.m4s",
+          "duration": 4.0,
+          "size_bytes": 3881932,
+          "bitrate_bps": 7763864.0
+        },
+        {
+          "segment_index": 35,
+          "filename": "0-35.m4s",
+          "duration": 4.0,
+          "size_bytes": 5193659,
+          "bitrate_bps": 10387318.0
+        },
+        {
+          "segment_index": 36,
+          "filename": "0-36.m4s",
+          "duration": 4.0,
+          "size_bytes": 5100232,
+          "bitrate_bps": 10200464.0
+        },
+        {
+          "segment_index": 37,
+          "filename": "0-37.m4s",
+          "duration": 4.0,
+          "size_bytes": 4390981,
+          "bitrate_bps": 8781962.0
+        },
+        {
+          "segment_index": 38,
+          "filename": "0-38.m4s",
+          "duration": 4.0,
+          "size_bytes": 3817554,
+          "bitrate_bps": 7635108.0
+        },
+        {
+          "segment_index": 39,
+          "filename": "0-39.m4s",
+          "duration": 4.0,
+          "size_bytes": 5278835,
+          "bitrate_bps": 10557670.0
+        },
+        {
+          "segment_index": 40,
+          "filename": "0-40.m4s",
+          "duration": 4.0,
+          "size_bytes": 5680988,
+          "bitrate_bps": 11361976.0
+        },
+        {
+          "segment_index": 41,
+          "filename": "0-41.m4s",
+          "duration": 4.0,
+          "size_bytes": 4785079,
+          "bitrate_bps": 9570158.0
+        },
+        {
+          "segment_index": 42,
+          "filename": "0-42.m4s",
+          "duration": 4.0,
+          "size_bytes": 4210393,
+          "bitrate_bps": 8420786.0
+        },
+        {
+          "segment_index": 43,
+          "filename": "0-43.m4s",
+          "duration": 4.0,
+          "size_bytes": 4225030,
+          "bitrate_bps": 8450060.0
+        },
+        {
+          "segment_index": 44,
+          "filename": "0-44.m4s",
+          "duration": 4.0,
+          "size_bytes": 3831718,
+          "bitrate_bps": 7663436.0
+        },
+        {
+          "segment_index": 45,
+          "filename": "0-45.m4s",
+          "duration": 4.0,
+          "size_bytes": 4040706,
+          "bitrate_bps": 8081412.0
+        },
+        {
+          "segment_index": 46,
+          "filename": "0-46.m4s",
+          "duration": 4.0,
+          "size_bytes": 3985186,
+          "bitrate_bps": 7970372.0
+        },
+        {
+          "segment_index": 47,
+          "filename": "0-47.m4s",
+          "duration": 4.0,
+          "size_bytes": 4512471,
+          "bitrate_bps": 9024942.0
+        },
+        {
+          "segment_index": 48,
+          "filename": "0-48.m4s",
+          "duration": 4.0,
+          "size_bytes": 4569605,
+          "bitrate_bps": 9139210.0
+        },
+        {
+          "segment_index": 49,
+          "filename": "0-49.m4s",
+          "duration": 4.0,
+          "size_bytes": 4004134,
+          "bitrate_bps": 8008268.0
+        },
+        {
+          "segment_index": 50,
+          "filename": "0-50.m4s",
+          "duration": 4.0,
+          "size_bytes": 3457538,
+          "bitrate_bps": 6915076.0
+        },
+        {
+          "segment_index": 51,
+          "filename": "0-51.m4s",
+          "duration": 4.0,
+          "size_bytes": 3761904,
+          "bitrate_bps": 7523808.0
+        },
+        {
+          "segment_index": 52,
+          "filename": "0-52.m4s",
+          "duration": 4.0,
+          "size_bytes": 3410204,
+          "bitrate_bps": 6820408.0
+        },
+        {
+          "segment_index": 53,
+          "filename": "0-53.m4s",
+          "duration": 4.0,
+          "size_bytes": 3819471,
+          "bitrate_bps": 7638942.0
+        },
+        {
+          "segment_index": 54,
+          "filename": "0-54.m4s",
+          "duration": 4.0,
+          "size_bytes": 3532331,
+          "bitrate_bps": 7064662.0
+        },
+        {
+          "segment_index": 55,
+          "filename": "0-55.m4s",
+          "duration": 4.0,
+          "size_bytes": 3538095,
+          "bitrate_bps": 7076190.0
+        },
+        {
+          "segment_index": 56,
+          "filename": "0-56.m4s",
+          "duration": 4.0,
+          "size_bytes": 4103897,
+          "bitrate_bps": 8207794.0
+        },
+        {
+          "segment_index": 57,
+          "filename": "0-57.m4s",
+          "duration": 4.0,
+          "size_bytes": 4208541,
+          "bitrate_bps": 8417082.0
+        },
+        {
+          "segment_index": 58,
+          "filename": "0-58.m4s",
+          "duration": 4.0,
+          "size_bytes": 4244424,
+          "bitrate_bps": 8488848.0
+        },
+        {
+          "segment_index": 59,
+          "filename": "0-59.m4s",
+          "duration": 4.0,
+          "size_bytes": 4108844,
+          "bitrate_bps": 8217688.0
+        },
+        {
+          "segment_index": 60,
+          "filename": "0-60.m4s",
+          "duration": 4.0,
+          "size_bytes": 4172782,
+          "bitrate_bps": 8345564.0
+        },
+        {
+          "segment_index": 61,
+          "filename": "0-61.m4s",
+          "duration": 4.0,
+          "size_bytes": 3573337,
+          "bitrate_bps": 7146674.0
+        },
+        {
+          "segment_index": 62,
+          "filename": "0-62.m4s",
+          "duration": 4.0,
+          "size_bytes": 3383307,
+          "bitrate_bps": 6766614.0
+        },
+        {
+          "segment_index": 63,
+          "filename": "0-63.m4s",
+          "duration": 4.0,
+          "size_bytes": 3665546,
+          "bitrate_bps": 7331092.0
+        },
+        {
+          "segment_index": 64,
+          "filename": "0-64.m4s",
+          "duration": 4.0,
+          "size_bytes": 4364906,
+          "bitrate_bps": 8729812.0
+        },
+        {
+          "segment_index": 65,
+          "filename": "0-65.m4s",
+          "duration": 4.0,
+          "size_bytes": 4137757,
+          "bitrate_bps": 8275514.0
+        },
+        {
+          "segment_index": 66,
+          "filename": "0-66.m4s",
+          "duration": 4.0,
+          "size_bytes": 3762683,
+          "bitrate_bps": 7525366.0
+        },
+        {
+          "segment_index": 67,
+          "filename": "0-67.m4s",
+          "duration": 4.0,
+          "size_bytes": 4663993,
+          "bitrate_bps": 9327986.0
+        },
+        {
+          "segment_index": 68,
+          "filename": "0-68.m4s",
+          "duration": 4.0,
+          "size_bytes": 4902675,
+          "bitrate_bps": 9805350.0
+        },
+        {
+          "segment_index": 69,
+          "filename": "0-69.m4s",
+          "duration": 4.0,
+          "size_bytes": 3879203,
+          "bitrate_bps": 7758406.0
+        },
+        {
+          "segment_index": 70,
+          "filename": "0-70.m4s",
+          "duration": 4.0,
+          "size_bytes": 4127300,
+          "bitrate_bps": 8254600.0
+        },
+        {
+          "segment_index": 71,
+          "filename": "0-71.m4s",
+          "duration": 4.0,
+          "size_bytes": 3038082,
+          "bitrate_bps": 6076164.0
+        },
+        {
+          "segment_index": 72,
+          "filename": "0-72.m4s",
+          "duration": 4.0,
+          "size_bytes": 4323116,
+          "bitrate_bps": 8646232.0
+        },
+        {
+          "segment_index": 73,
+          "filename": "0-73.m4s",
+          "duration": 4.0,
+          "size_bytes": 4393087,
+          "bitrate_bps": 8786174.0
+        },
+        {
+          "segment_index": 74,
+          "filename": "0-74.m4s",
+          "duration": 4.0,
+          "size_bytes": 4485960,
+          "bitrate_bps": 8971920.0
+        },
+        {
+          "segment_index": 75,
+          "filename": "0-75.m4s",
+          "duration": 4.0,
+          "size_bytes": 3922590,
+          "bitrate_bps": 7845180.0
+        },
+        {
+          "segment_index": 76,
+          "filename": "0-76.m4s",
+          "duration": 4.0,
+          "size_bytes": 4000665,
+          "bitrate_bps": 8001330.0
+        },
+        {
+          "segment_index": 77,
+          "filename": "0-77.m4s",
+          "duration": 4.0,
+          "size_bytes": 4353859,
+          "bitrate_bps": 8707718.0
+        },
+        {
+          "segment_index": 78,
+          "filename": "0-78.m4s",
+          "duration": 4.0,
+          "size_bytes": 4478716,
+          "bitrate_bps": 8957432.0
+        },
+        {
+          "segment_index": 79,
+          "filename": "0-79.m4s",
+          "duration": 4.0,
+          "size_bytes": 3892009,
+          "bitrate_bps": 7784018.0
+        },
+        {
+          "segment_index": 80,
+          "filename": "0-80.m4s",
+          "duration": 4.0,
+          "size_bytes": 4269756,
+          "bitrate_bps": 8539512.0
+        },
+        {
+          "segment_index": 81,
+          "filename": "0-81.m4s",
+          "duration": 4.0,
+          "size_bytes": 4061474,
+          "bitrate_bps": 8122948.0
+        },
+        {
+          "segment_index": 82,
+          "filename": "0-82.m4s",
+          "duration": 4.0,
+          "size_bytes": 4158619,
+          "bitrate_bps": 8317238.0
+        },
+        {
+          "segment_index": 83,
+          "filename": "0-83.m4s",
+          "duration": 4.0,
+          "size_bytes": 3548249,
+          "bitrate_bps": 7096498.0
+        },
+        {
+          "segment_index": 84,
+          "filename": "0-84.m4s",
+          "duration": 4.0,
+          "size_bytes": 3940429,
+          "bitrate_bps": 7880858.0
+        },
+        {
+          "segment_index": 85,
+          "filename": "0-85.m4s",
+          "duration": 4.0,
+          "size_bytes": 4393363,
+          "bitrate_bps": 8786726.0
+        },
+        {
+          "segment_index": 86,
+          "filename": "0-86.m4s",
+          "duration": 4.0,
+          "size_bytes": 4121258,
+          "bitrate_bps": 8242516.0
+        },
+        {
+          "segment_index": 87,
+          "filename": "0-87.m4s",
+          "duration": 4.0,
+          "size_bytes": 4358936,
+          "bitrate_bps": 8717872.0
+        },
+        {
+          "segment_index": 88,
+          "filename": "0-88.m4s",
+          "duration": 4.0,
+          "size_bytes": 3868685,
+          "bitrate_bps": 7737370.0
+        },
+        {
+          "segment_index": 89,
+          "filename": "0-89.m4s",
+          "duration": 4.0,
+          "size_bytes": 4955619,
+          "bitrate_bps": 9911238.0
+        },
+        {
+          "segment_index": 90,
+          "filename": "0-90.m4s",
+          "duration": 4.0,
+          "size_bytes": 4045720,
+          "bitrate_bps": 8091440.0
+        },
+        {
+          "segment_index": 91,
+          "filename": "0-91.m4s",
+          "duration": 4.0,
+          "size_bytes": 3887789,
+          "bitrate_bps": 7775578.0
+        },
+        {
+          "segment_index": 92,
+          "filename": "0-92.m4s",
+          "duration": 4.0,
+          "size_bytes": 3521326,
+          "bitrate_bps": 7042652.0
+        },
+        {
+          "segment_index": 93,
+          "filename": "0-93.m4s",
+          "duration": 4.0,
+          "size_bytes": 3496727,
+          "bitrate_bps": 6993454.0
+        },
+        {
+          "segment_index": 94,
+          "filename": "0-94.m4s",
+          "duration": 4.0,
+          "size_bytes": 4443223,
+          "bitrate_bps": 8886446.0
+        },
+        {
+          "segment_index": 95,
+          "filename": "0-95.m4s",
+          "duration": 4.0,
+          "size_bytes": 3446245,
+          "bitrate_bps": 6892490.0
+        },
+        {
+          "segment_index": 96,
+          "filename": "0-96.m4s",
+          "duration": 4.0,
+          "size_bytes": 4457789,
+          "bitrate_bps": 8915578.0
+        },
+        {
+          "segment_index": 97,
+          "filename": "0-97.m4s",
+          "duration": 4.0,
+          "size_bytes": 3971003,
+          "bitrate_bps": 7942006.0
+        },
+        {
+          "segment_index": 98,
+          "filename": "0-98.m4s",
+          "duration": 4.0,
+          "size_bytes": 3816629,
+          "bitrate_bps": 7633258.0
+        },
+        {
+          "segment_index": 99,
+          "filename": "0-99.m4s",
+          "duration": 4.0,
+          "size_bytes": 3662204,
+          "bitrate_bps": 7324408.0
+        },
+        {
+          "segment_index": 100,
+          "filename": "0-100.m4s",
+          "duration": 4.0,
+          "size_bytes": 3707100,
+          "bitrate_bps": 7414200.0
+        },
+        {
+          "segment_index": 101,
+          "filename": "0-101.m4s",
+          "duration": 4.0,
+          "size_bytes": 4609851,
+          "bitrate_bps": 9219702.0
+        },
+        {
+          "segment_index": 102,
+          "filename": "0-102.m4s",
+          "duration": 4.0,
+          "size_bytes": 4551512,
+          "bitrate_bps": 9103024.0
+        },
+        {
+          "segment_index": 103,
+          "filename": "0-103.m4s",
+          "duration": 4.0,
+          "size_bytes": 3733035,
+          "bitrate_bps": 7466070.0
+        },
+        {
+          "segment_index": 104,
+          "filename": "0-104.m4s",
+          "duration": 4.0,
+          "size_bytes": 4663685,
+          "bitrate_bps": 9327370.0
+        },
+        {
+          "segment_index": 105,
+          "filename": "0-105.m4s",
+          "duration": 4.0,
+          "size_bytes": 3366901,
+          "bitrate_bps": 6733802.0
+        },
+        {
+          "segment_index": 106,
+          "filename": "0-106.m4s",
+          "duration": 4.0,
+          "size_bytes": 3171118,
+          "bitrate_bps": 6342236.0
+        },
+        {
+          "segment_index": 107,
+          "filename": "0-107.m4s",
+          "duration": 4.0,
+          "size_bytes": 3416678,
+          "bitrate_bps": 6833356.0
+        },
+        {
+          "segment_index": 108,
+          "filename": "0-108.m4s",
+          "duration": 4.0,
+          "size_bytes": 4192262,
+          "bitrate_bps": 8384524.0
+        },
+        {
+          "segment_index": 109,
+          "filename": "0-109.m4s",
+          "duration": 4.0,
+          "size_bytes": 3634988,
+          "bitrate_bps": 7269976.0
+        },
+        {
+          "segment_index": 110,
+          "filename": "0-110.m4s",
+          "duration": 4.0,
+          "size_bytes": 3307824,
+          "bitrate_bps": 6615648.0
+        },
+        {
+          "segment_index": 111,
+          "filename": "0-111.m4s",
+          "duration": 4.0,
+          "size_bytes": 3014805,
+          "bitrate_bps": 6029610.0
+        },
+        {
+          "segment_index": 112,
+          "filename": "0-112.m4s",
+          "duration": 4.0,
+          "size_bytes": 3437399,
+          "bitrate_bps": 6874798.0
+        },
+        {
+          "segment_index": 113,
+          "filename": "0-113.m4s",
+          "duration": 4.0,
+          "size_bytes": 3426874,
+          "bitrate_bps": 6853748.0
+        },
+        {
+          "segment_index": 114,
+          "filename": "0-114.m4s",
+          "duration": 4.0,
+          "size_bytes": 3012116,
+          "bitrate_bps": 6024232.0
+        },
+        {
+          "segment_index": 115,
+          "filename": "0-115.m4s",
+          "duration": 4.0,
+          "size_bytes": 3705163,
+          "bitrate_bps": 7410326.0
+        },
+        {
+          "segment_index": 116,
+          "filename": "0-116.m4s",
+          "duration": 4.0,
+          "size_bytes": 4898927,
+          "bitrate_bps": 9797854.0
+        },
+        {
+          "segment_index": 117,
+          "filename": "0-117.m4s",
+          "duration": 4.0,
+          "size_bytes": 4638233,
+          "bitrate_bps": 9276466.0
+        },
+        {
+          "segment_index": 118,
+          "filename": "0-118.m4s",
+          "duration": 4.0,
+          "size_bytes": 3941420,
+          "bitrate_bps": 7882840.0
+        },
+        {
+          "segment_index": 119,
+          "filename": "0-119.m4s",
+          "duration": 4.0,
+          "size_bytes": 3744729,
+          "bitrate_bps": 7489458.0
+        },
+        {
+          "segment_index": 120,
+          "filename": "0-120.m4s",
+          "duration": 4.0,
+          "size_bytes": 4148671,
+          "bitrate_bps": 8297342.0
+        },
+        {
+          "segment_index": 121,
+          "filename": "0-121.m4s",
+          "duration": 4.0,
+          "size_bytes": 3367291,
+          "bitrate_bps": 6734582.0
+        },
+        {
+          "segment_index": 122,
+          "filename": "0-122.m4s",
+          "duration": 4.0,
+          "size_bytes": 3924172,
+          "bitrate_bps": 7848344.0
+        },
+        {
+          "segment_index": 123,
+          "filename": "0-123.m4s",
+          "duration": 4.0,
+          "size_bytes": 4522666,
+          "bitrate_bps": 9045332.0
+        },
+        {
+          "segment_index": 124,
+          "filename": "0-124.m4s",
+          "duration": 4.0,
+          "size_bytes": 3896880,
+          "bitrate_bps": 7793760.0
+        },
+        {
+          "segment_index": 125,
+          "filename": "0-125.m4s",
+          "duration": 4.0,
+          "size_bytes": 3785996,
+          "bitrate_bps": 7571992.0
+        },
+        {
+          "segment_index": 126,
+          "filename": "0-126.m4s",
+          "duration": 4.0,
+          "size_bytes": 4333615,
+          "bitrate_bps": 8667230.0
+        },
+        {
+          "segment_index": 127,
+          "filename": "0-127.m4s",
+          "duration": 4.0,
+          "size_bytes": 3799797,
+          "bitrate_bps": 7599594.0
+        },
+        {
+          "segment_index": 128,
+          "filename": "0-128.m4s",
+          "duration": 4.0,
+          "size_bytes": 3501086,
+          "bitrate_bps": 7002172.0
+        },
+        {
+          "segment_index": 129,
+          "filename": "0-129.m4s",
+          "duration": 4.0,
+          "size_bytes": 4422035,
+          "bitrate_bps": 8844070.0
+        },
+        {
+          "segment_index": 130,
+          "filename": "0-130.m4s",
+          "duration": 4.0,
+          "size_bytes": 4307872,
+          "bitrate_bps": 8615744.0
+        },
+        {
+          "segment_index": 131,
+          "filename": "0-131.m4s",
+          "duration": 4.0,
+          "size_bytes": 4595139,
+          "bitrate_bps": 9190278.0
+        },
+        {
+          "segment_index": 132,
+          "filename": "0-132.m4s",
+          "duration": 4.0,
+          "size_bytes": 3248513,
+          "bitrate_bps": 6497026.0
+        },
+        {
+          "segment_index": 133,
+          "filename": "0-133.m4s",
+          "duration": 4.0,
+          "size_bytes": 3455359,
+          "bitrate_bps": 6910718.0
+        },
+        {
+          "segment_index": 134,
+          "filename": "0-134.m4s",
+          "duration": 4.0,
+          "size_bytes": 5066759,
+          "bitrate_bps": 10133518.0
+        },
+        {
+          "segment_index": 135,
+          "filename": "0-135.m4s",
+          "duration": 4.0,
+          "size_bytes": 4820787,
+          "bitrate_bps": 9641574.0
+        },
+        {
+          "segment_index": 136,
+          "filename": "0-136.m4s",
+          "duration": 4.0,
+          "size_bytes": 4178121,
+          "bitrate_bps": 8356242.0
+        },
+        {
+          "segment_index": 137,
+          "filename": "0-137.m4s",
+          "duration": 4.0,
+          "size_bytes": 4484220,
+          "bitrate_bps": 8968440.0
+        },
+        {
+          "segment_index": 138,
+          "filename": "0-138.m4s",
+          "duration": 4.0,
+          "size_bytes": 4278877,
+          "bitrate_bps": 8557754.0
+        },
+        {
+          "segment_index": 139,
+          "filename": "0-139.m4s",
+          "duration": 4.0,
+          "size_bytes": 4017959,
+          "bitrate_bps": 8035918.0
+        },
+        {
+          "segment_index": 140,
+          "filename": "0-140.m4s",
+          "duration": 4.0,
+          "size_bytes": 3891698,
+          "bitrate_bps": 7783396.0
+        },
+        {
+          "segment_index": 141,
+          "filename": "0-141.m4s",
+          "duration": 4.0,
+          "size_bytes": 4018050,
+          "bitrate_bps": 8036100.0
+        },
+        {
+          "segment_index": 142,
+          "filename": "0-142.m4s",
+          "duration": 4.0,
+          "size_bytes": 3740882,
+          "bitrate_bps": 7481764.0
+        },
+        {
+          "segment_index": 143,
+          "filename": "0-143.m4s",
+          "duration": 4.0,
+          "size_bytes": 4277192,
+          "bitrate_bps": 8554384.0
+        },
+        {
+          "segment_index": 144,
+          "filename": "0-144.m4s",
+          "duration": 4.0,
+          "size_bytes": 3820184,
+          "bitrate_bps": 7640368.0
+        },
+        {
+          "segment_index": 145,
+          "filename": "0-145.m4s",
+          "duration": 4.0,
+          "size_bytes": 3977588,
+          "bitrate_bps": 7955176.0
+        },
+        {
+          "segment_index": 146,
+          "filename": "0-146.m4s",
+          "duration": 4.0,
+          "size_bytes": 3860779,
+          "bitrate_bps": 7721558.0
+        },
+        {
+          "segment_index": 147,
+          "filename": "0-147.m4s",
+          "duration": 4.0,
+          "size_bytes": 3721815,
+          "bitrate_bps": 7443630.0
+        },
+        {
+          "segment_index": 148,
+          "filename": "0-148.m4s",
+          "duration": 4.0,
+          "size_bytes": 3499161,
+          "bitrate_bps": 6998322.0
+        },
+        {
+          "segment_index": 149,
+          "filename": "0-149.m4s",
+          "duration": 4.0,
+          "size_bytes": 4114994,
+          "bitrate_bps": 8229988.0
+        },
+        {
+          "segment_index": 150,
+          "filename": "0-150.m4s",
+          "duration": 4.0,
+          "size_bytes": 4110039,
+          "bitrate_bps": 8220078.0
+        },
+        {
+          "segment_index": 151,
+          "filename": "0-151.m4s",
+          "duration": 4.0,
+          "size_bytes": 3939159,
+          "bitrate_bps": 7878318.0
+        },
+        {
+          "segment_index": 152,
+          "filename": "0-152.m4s",
+          "duration": 4.0,
+          "size_bytes": 4115956,
+          "bitrate_bps": 8231912.0
+        },
+        {
+          "segment_index": 153,
+          "filename": "0-153.m4s",
+          "duration": 4.0,
+          "size_bytes": 3860010,
+          "bitrate_bps": 7720020.0
+        },
+        {
+          "segment_index": 154,
+          "filename": "0-154.m4s",
+          "duration": 4.0,
+          "size_bytes": 4363817,
+          "bitrate_bps": 8727634.0
+        },
+        {
+          "segment_index": 155,
+          "filename": "0-155.m4s",
+          "duration": 4.0,
+          "size_bytes": 4240045,
+          "bitrate_bps": 8480090.0
+        },
+        {
+          "segment_index": 156,
+          "filename": "0-156.m4s",
+          "duration": 4.0,
+          "size_bytes": 3706285,
+          "bitrate_bps": 7412570.0
+        },
+        {
+          "segment_index": 157,
+          "filename": "0-157.m4s",
+          "duration": 4.0,
+          "size_bytes": 4464258,
+          "bitrate_bps": 8928516.0
+        },
+        {
+          "segment_index": 158,
+          "filename": "0-158.m4s",
+          "duration": 4.0,
+          "size_bytes": 3978793,
+          "bitrate_bps": 7957586.0
+        },
+        {
+          "segment_index": 159,
+          "filename": "0-159.m4s",
+          "duration": 4.0,
+          "size_bytes": 4481465,
+          "bitrate_bps": 8962930.0
+        },
+        {
+          "segment_index": 160,
+          "filename": "0-160.m4s",
+          "duration": 4.0,
+          "size_bytes": 4663410,
+          "bitrate_bps": 9326820.0
+        },
+        {
+          "segment_index": 161,
+          "filename": "0-161.m4s",
+          "duration": 4.0,
+          "size_bytes": 3897467,
+          "bitrate_bps": 7794934.0
+        },
+        {
+          "segment_index": 162,
+          "filename": "0-162.m4s",
+          "duration": 4.0,
+          "size_bytes": 4047233,
+          "bitrate_bps": 8094466.0
+        },
+        {
+          "segment_index": 163,
+          "filename": "0-163.m4s",
+          "duration": 4.0,
+          "size_bytes": 3655142,
+          "bitrate_bps": 7310284.0
+        },
+        {
+          "segment_index": 164,
+          "filename": "0-164.m4s",
+          "duration": 4.0,
+          "size_bytes": 3681818,
+          "bitrate_bps": 7363636.0
+        },
+        {
+          "segment_index": 165,
+          "filename": "0-165.m4s",
+          "duration": 4.0,
+          "size_bytes": 3772984,
+          "bitrate_bps": 7545968.0
+        },
+        {
+          "segment_index": 166,
+          "filename": "0-166.m4s",
+          "duration": 4.0,
+          "size_bytes": 3102825,
+          "bitrate_bps": 6205650.0
+        },
+        {
+          "segment_index": 167,
+          "filename": "0-167.m4s",
+          "duration": 4.0,
+          "size_bytes": 4064320,
+          "bitrate_bps": 8128640.0
+        },
+        {
+          "segment_index": 168,
+          "filename": "0-168.m4s",
+          "duration": 4.0,
+          "size_bytes": 3716496,
+          "bitrate_bps": 7432992.0
+        },
+        {
+          "segment_index": 169,
+          "filename": "0-169.m4s",
+          "duration": 4.0,
+          "size_bytes": 3747582,
+          "bitrate_bps": 7495164.0
+        },
+        {
+          "segment_index": 170,
+          "filename": "0-170.m4s",
+          "duration": 4.0,
+          "size_bytes": 4308415,
+          "bitrate_bps": 8616830.0
+        },
+        {
+          "segment_index": 171,
+          "filename": "0-171.m4s",
+          "duration": 4.0,
+          "size_bytes": 6264094,
+          "bitrate_bps": 12528188.0
+        },
+        {
+          "segment_index": 172,
+          "filename": "0-172.m4s",
+          "duration": 4.0,
+          "size_bytes": 4796311,
+          "bitrate_bps": 9592622.0
+        },
+        {
+          "segment_index": 173,
+          "filename": "0-173.m4s",
+          "duration": 4.0,
+          "size_bytes": 4103342,
+          "bitrate_bps": 8206684.0
+        },
+        {
+          "segment_index": 174,
+          "filename": "0-174.m4s",
+          "duration": 4.0,
+          "size_bytes": 4269337,
+          "bitrate_bps": 8538674.0
+        },
+        {
+          "segment_index": 175,
+          "filename": "0-175.m4s",
+          "duration": 4.0,
+          "size_bytes": 5153937,
+          "bitrate_bps": 10307874.0
+        },
+        {
+          "segment_index": 176,
+          "filename": "0-176.m4s",
+          "duration": 4.0,
+          "size_bytes": 4542925,
+          "bitrate_bps": 9085850.0
+        },
+        {
+          "segment_index": 177,
+          "filename": "0-177.m4s",
+          "duration": 4.0,
+          "size_bytes": 4336564,
+          "bitrate_bps": 8673128.0
+        },
+        {
+          "segment_index": 178,
+          "filename": "0-178.m4s",
+          "duration": 4.0,
+          "size_bytes": 4695013,
+          "bitrate_bps": 9390026.0
+        },
+        {
+          "segment_index": 179,
+          "filename": "0-179.m4s",
+          "duration": 4.0,
+          "size_bytes": 4650402,
+          "bitrate_bps": 9300804.0
+        },
+        {
+          "segment_index": 180,
+          "filename": "0-180.m4s",
+          "duration": 4.0,
+          "size_bytes": 4115434,
+          "bitrate_bps": 8230868.0
+        },
+        {
+          "segment_index": 181,
+          "filename": "0-181.m4s",
+          "duration": 4.0,
+          "size_bytes": 5946367,
+          "bitrate_bps": 11892734.0
+        },
+        {
+          "segment_index": 182,
+          "filename": "0-182.m4s",
+          "duration": 4.0,
+          "size_bytes": 5081159,
+          "bitrate_bps": 10162318.0
+        },
+        {
+          "segment_index": 183,
+          "filename": "0-183.m4s",
+          "duration": 4.0,
+          "size_bytes": 5255760,
+          "bitrate_bps": 10511520.0
+        },
+        {
+          "segment_index": 184,
+          "filename": "0-184.m4s",
+          "duration": 4.0,
+          "size_bytes": 4842150,
+          "bitrate_bps": 9684300.0
+        },
+        {
+          "segment_index": 185,
+          "filename": "0-185.m4s",
+          "duration": 4.0,
+          "size_bytes": 5432296,
+          "bitrate_bps": 10864592.0
+        },
+        {
+          "segment_index": 186,
+          "filename": "0-186.m4s",
+          "duration": 4.0,
+          "size_bytes": 4601069,
+          "bitrate_bps": 9202138.0
+        },
+        {
+          "segment_index": 187,
+          "filename": "0-187.m4s",
+          "duration": 4.0,
+          "size_bytes": 4728481,
+          "bitrate_bps": 9456962.0
+        },
+        {
+          "segment_index": 188,
+          "filename": "0-188.m4s",
+          "duration": 4.0,
+          "size_bytes": 4944154,
+          "bitrate_bps": 9888308.0
+        },
+        {
+          "segment_index": 189,
+          "filename": "0-189.m4s",
+          "duration": 4.0,
+          "size_bytes": 4829785,
+          "bitrate_bps": 9659570.0
+        },
+        {
+          "segment_index": 190,
+          "filename": "0-190.m4s",
+          "duration": 4.0,
+          "size_bytes": 4953795,
+          "bitrate_bps": 9907590.0
+        },
+        {
+          "segment_index": 191,
+          "filename": "0-191.m4s",
+          "duration": 4.0,
+          "size_bytes": 4753664,
+          "bitrate_bps": 9507328.0
+        },
+        {
+          "segment_index": 192,
+          "filename": "0-192.m4s",
+          "duration": 4.0,
+          "size_bytes": 4995242,
+          "bitrate_bps": 9990484.0
+        },
+        {
+          "segment_index": 193,
+          "filename": "0-193.m4s",
+          "duration": 2.1,
+          "size_bytes": 1548399,
+          "bitrate_bps": 5898662.857142857
+        }
+      ]
+    },
+    "1080p_l": {
+      "codec": "avc1.640028",
+      "width": 1920,
+      "height": 1080,
+      "fps": 30.0,
+      "nominal_bandwidth": 8300000,
+      "segments": [
+        {
+          "segment_index": 1,
+          "filename": "0-1.m4s",
+          "duration": 4.0,
+          "size_bytes": 176678,
+          "bitrate_bps": 353356.0
+        },
+        {
+          "segment_index": 2,
+          "filename": "0-2.m4s",
+          "duration": 4.0,
+          "size_bytes": 439458,
+          "bitrate_bps": 878916.0
+        },
+        {
+          "segment_index": 3,
+          "filename": "0-3.m4s",
+          "duration": 4.0,
+          "size_bytes": 557885,
+          "bitrate_bps": 1115770.0
+        },
+        {
+          "segment_index": 4,
+          "filename": "0-4.m4s",
+          "duration": 4.0,
+          "size_bytes": 1487166,
+          "bitrate_bps": 2974332.0
+        },
+        {
+          "segment_index": 5,
+          "filename": "0-5.m4s",
+          "duration": 4.0,
+          "size_bytes": 435386,
+          "bitrate_bps": 870772.0
+        },
+        {
+          "segment_index": 6,
+          "filename": "0-6.m4s",
+          "duration": 4.0,
+          "size_bytes": 111478,
+          "bitrate_bps": 222956.0
+        },
+        {
+          "segment_index": 7,
+          "filename": "0-7.m4s",
+          "duration": 4.0,
+          "size_bytes": 766566,
+          "bitrate_bps": 1533132.0
+        },
+        {
+          "segment_index": 8,
+          "filename": "0-8.m4s",
+          "duration": 4.0,
+          "size_bytes": 2665493,
+          "bitrate_bps": 5330986.0
+        },
+        {
+          "segment_index": 9,
+          "filename": "0-9.m4s",
+          "duration": 4.0,
+          "size_bytes": 362272,
+          "bitrate_bps": 724544.0
+        },
+        {
+          "segment_index": 10,
+          "filename": "0-10.m4s",
+          "duration": 4.0,
+          "size_bytes": 96867,
+          "bitrate_bps": 193734.0
+        },
+        {
+          "segment_index": 11,
+          "filename": "0-11.m4s",
+          "duration": 4.0,
+          "size_bytes": 591064,
+          "bitrate_bps": 1182128.0
+        },
+        {
+          "segment_index": 12,
+          "filename": "0-12.m4s",
+          "duration": 4.0,
+          "size_bytes": 2252675,
+          "bitrate_bps": 4505350.0
+        },
+        {
+          "segment_index": 13,
+          "filename": "0-13.m4s",
+          "duration": 4.0,
+          "size_bytes": 371045,
+          "bitrate_bps": 742090.0
+        },
+        {
+          "segment_index": 14,
+          "filename": "0-14.m4s",
+          "duration": 4.0,
+          "size_bytes": 114992,
+          "bitrate_bps": 229984.0
+        },
+        {
+          "segment_index": 15,
+          "filename": "0-15.m4s",
+          "duration": 4.0,
+          "size_bytes": 565024,
+          "bitrate_bps": 1130048.0
+        },
+        {
+          "segment_index": 16,
+          "filename": "0-16.m4s",
+          "duration": 4.0,
+          "size_bytes": 2348508,
+          "bitrate_bps": 4697016.0
+        },
+        {
+          "segment_index": 17,
+          "filename": "0-17.m4s",
+          "duration": 4.0,
+          "size_bytes": 428863,
+          "bitrate_bps": 857726.0
+        },
+        {
+          "segment_index": 18,
+          "filename": "0-18.m4s",
+          "duration": 4.0,
+          "size_bytes": 126466,
+          "bitrate_bps": 252932.0
+        },
+        {
+          "segment_index": 19,
+          "filename": "0-19.m4s",
+          "duration": 4.0,
+          "size_bytes": 448535,
+          "bitrate_bps": 897070.0
+        },
+        {
+          "segment_index": 20,
+          "filename": "0-20.m4s",
+          "duration": 4.0,
+          "size_bytes": 2126040,
+          "bitrate_bps": 4252080.0
+        },
+        {
+          "segment_index": 21,
+          "filename": "0-21.m4s",
+          "duration": 4.0,
+          "size_bytes": 431594,
+          "bitrate_bps": 863188.0
+        },
+        {
+          "segment_index": 22,
+          "filename": "0-22.m4s",
+          "duration": 4.0,
+          "size_bytes": 111545,
+          "bitrate_bps": 223090.0
+        },
+        {
+          "segment_index": 23,
+          "filename": "0-23.m4s",
+          "duration": 4.0,
+          "size_bytes": 419654,
+          "bitrate_bps": 839308.0
+        },
+        {
+          "segment_index": 24,
+          "filename": "0-24.m4s",
+          "duration": 4.0,
+          "size_bytes": 1399038,
+          "bitrate_bps": 2798076.0
+        },
+        {
+          "segment_index": 25,
+          "filename": "0-25.m4s",
+          "duration": 4.0,
+          "size_bytes": 1438670,
+          "bitrate_bps": 2877340.0
+        },
+        {
+          "segment_index": 26,
+          "filename": "0-26.m4s",
+          "duration": 4.0,
+          "size_bytes": 442667,
+          "bitrate_bps": 885334.0
+        },
+        {
+          "segment_index": 27,
+          "filename": "0-27.m4s",
+          "duration": 4.0,
+          "size_bytes": 147014,
+          "bitrate_bps": 294028.0
+        },
+        {
+          "segment_index": 28,
+          "filename": "0-28.m4s",
+          "duration": 4.0,
+          "size_bytes": 510077,
+          "bitrate_bps": 1020154.0
+        },
+        {
+          "segment_index": 29,
+          "filename": "0-29.m4s",
+          "duration": 4.0,
+          "size_bytes": 2619760,
+          "bitrate_bps": 5239520.0
+        },
+        {
+          "segment_index": 30,
+          "filename": "0-30.m4s",
+          "duration": 4.0,
+          "size_bytes": 474365,
+          "bitrate_bps": 948730.0
+        },
+        {
+          "segment_index": 31,
+          "filename": "0-31.m4s",
+          "duration": 4.0,
+          "size_bytes": 161058,
+          "bitrate_bps": 322116.0
+        },
+        {
+          "segment_index": 32,
+          "filename": "0-32.m4s",
+          "duration": 4.0,
+          "size_bytes": 726591,
+          "bitrate_bps": 1453182.0
+        },
+        {
+          "segment_index": 33,
+          "filename": "0-33.m4s",
+          "duration": 4.0,
+          "size_bytes": 3079676,
+          "bitrate_bps": 6159352.0
+        },
+        {
+          "segment_index": 34,
+          "filename": "0-34.m4s",
+          "duration": 4.0,
+          "size_bytes": 355130,
+          "bitrate_bps": 710260.0
+        },
+        {
+          "segment_index": 35,
+          "filename": "0-35.m4s",
+          "duration": 4.0,
+          "size_bytes": 448962,
+          "bitrate_bps": 897924.0
+        },
+        {
+          "segment_index": 36,
+          "filename": "0-36.m4s",
+          "duration": 4.0,
+          "size_bytes": 154295,
+          "bitrate_bps": 308590.0
+        },
+        {
+          "segment_index": 37,
+          "filename": "0-37.m4s",
+          "duration": 4.0,
+          "size_bytes": 505886,
+          "bitrate_bps": 1011772.0
+        },
+        {
+          "segment_index": 38,
+          "filename": "0-38.m4s",
+          "duration": 4.0,
+          "size_bytes": 2303799,
+          "bitrate_bps": 4607598.0
+        },
+        {
+          "segment_index": 39,
+          "filename": "0-39.m4s",
+          "duration": 4.0,
+          "size_bytes": 451056,
+          "bitrate_bps": 902112.0
+        },
+        {
+          "segment_index": 40,
+          "filename": "0-40.m4s",
+          "duration": 4.0,
+          "size_bytes": 137643,
+          "bitrate_bps": 275286.0
+        },
+        {
+          "segment_index": 41,
+          "filename": "0-41.m4s",
+          "duration": 4.0,
+          "size_bytes": 734799,
+          "bitrate_bps": 1469598.0
+        },
+        {
+          "segment_index": 42,
+          "filename": "0-42.m4s",
+          "duration": 4.0,
+          "size_bytes": 2465779,
+          "bitrate_bps": 4931558.0
+        },
+        {
+          "segment_index": 43,
+          "filename": "0-43.m4s",
+          "duration": 4.0,
+          "size_bytes": 453173,
+          "bitrate_bps": 906346.0
+        },
+        {
+          "segment_index": 44,
+          "filename": "0-44.m4s",
+          "duration": 4.0,
+          "size_bytes": 159437,
+          "bitrate_bps": 318874.0
+        },
+        {
+          "segment_index": 45,
+          "filename": "0-45.m4s",
+          "duration": 4.0,
+          "size_bytes": 943798,
+          "bitrate_bps": 1887596.0
+        },
+        {
+          "segment_index": 46,
+          "filename": "0-46.m4s",
+          "duration": 4.0,
+          "size_bytes": 2547198,
+          "bitrate_bps": 5094396.0
+        },
+        {
+          "segment_index": 47,
+          "filename": "0-47.m4s",
+          "duration": 4.0,
+          "size_bytes": 470857,
+          "bitrate_bps": 941714.0
+        },
+        {
+          "segment_index": 48,
+          "filename": "0-48.m4s",
+          "duration": 4.0,
+          "size_bytes": 174478,
+          "bitrate_bps": 348956.0
+        },
+        {
+          "segment_index": 49,
+          "filename": "0-49.m4s",
+          "duration": 4.0,
+          "size_bytes": 716465,
+          "bitrate_bps": 1432930.0
+        },
+        {
+          "segment_index": 50,
+          "filename": "0-50.m4s",
+          "duration": 4.0,
+          "size_bytes": 2833159,
+          "bitrate_bps": 5666318.0
+        },
+        {
+          "segment_index": 51,
+          "filename": "0-51.m4s",
+          "duration": 4.0,
+          "size_bytes": 453389,
+          "bitrate_bps": 906778.0
+        },
+        {
+          "segment_index": 52,
+          "filename": "0-52.m4s",
+          "duration": 4.0,
+          "size_bytes": 175001,
+          "bitrate_bps": 350002.0
+        },
+        {
+          "segment_index": 53,
+          "filename": "0-53.m4s",
+          "duration": 4.0,
+          "size_bytes": 727138,
+          "bitrate_bps": 1454276.0
+        },
+        {
+          "segment_index": 54,
+          "filename": "0-54.m4s",
+          "duration": 4.0,
+          "size_bytes": 2772541,
+          "bitrate_bps": 5545082.0
+        },
+        {
+          "segment_index": 55,
+          "filename": "0-55.m4s",
+          "duration": 4.0,
+          "size_bytes": 308747,
+          "bitrate_bps": 617494.0
+        },
+        {
+          "segment_index": 56,
+          "filename": "0-56.m4s",
+          "duration": 4.0,
+          "size_bytes": 494716,
+          "bitrate_bps": 989432.0
+        },
+        {
+          "segment_index": 57,
+          "filename": "0-57.m4s",
+          "duration": 4.0,
+          "size_bytes": 159784,
+          "bitrate_bps": 319568.0
+        },
+        {
+          "segment_index": 58,
+          "filename": "0-58.m4s",
+          "duration": 4.0,
+          "size_bytes": 291329,
+          "bitrate_bps": 582658.0
+        },
+        {
+          "segment_index": 59,
+          "filename": "0-59.m4s",
+          "duration": 4.0,
+          "size_bytes": 988299,
+          "bitrate_bps": 1976598.0
+        },
+        {
+          "segment_index": 60,
+          "filename": "0-60.m4s",
+          "duration": 4.0,
+          "size_bytes": 2224007,
+          "bitrate_bps": 4448014.0
+        },
+        {
+          "segment_index": 61,
+          "filename": "0-61.m4s",
+          "duration": 4.0,
+          "size_bytes": 458827,
+          "bitrate_bps": 917654.0
+        },
+        {
+          "segment_index": 62,
+          "filename": "0-62.m4s",
+          "duration": 4.0,
+          "size_bytes": 157326,
+          "bitrate_bps": 314652.0
+        },
+        {
+          "segment_index": 63,
+          "filename": "0-63.m4s",
+          "duration": 4.0,
+          "size_bytes": 447360,
+          "bitrate_bps": 894720.0
+        },
+        {
+          "segment_index": 64,
+          "filename": "0-64.m4s",
+          "duration": 4.0,
+          "size_bytes": 2218605,
+          "bitrate_bps": 4437210.0
+        },
+        {
+          "segment_index": 65,
+          "filename": "0-65.m4s",
+          "duration": 4.0,
+          "size_bytes": 260094,
+          "bitrate_bps": 520188.0
+        },
+        {
+          "segment_index": 66,
+          "filename": "0-66.m4s",
+          "duration": 4.0,
+          "size_bytes": 462828,
+          "bitrate_bps": 925656.0
+        },
+        {
+          "segment_index": 67,
+          "filename": "0-67.m4s",
+          "duration": 4.0,
+          "size_bytes": 160730,
+          "bitrate_bps": 321460.0
+        },
+        {
+          "segment_index": 68,
+          "filename": "0-68.m4s",
+          "duration": 4.0,
+          "size_bytes": 553750,
+          "bitrate_bps": 1107500.0
+        },
+        {
+          "segment_index": 69,
+          "filename": "0-69.m4s",
+          "duration": 4.0,
+          "size_bytes": 2081577,
+          "bitrate_bps": 4163154.0
+        },
+        {
+          "segment_index": 70,
+          "filename": "0-70.m4s",
+          "duration": 4.0,
+          "size_bytes": 682298,
+          "bitrate_bps": 1364596.0
+        },
+        {
+          "segment_index": 71,
+          "filename": "0-71.m4s",
+          "duration": 4.0,
+          "size_bytes": 434876,
+          "bitrate_bps": 869752.0
+        },
+        {
+          "segment_index": 72,
+          "filename": "0-72.m4s",
+          "duration": 4.0,
+          "size_bytes": 128672,
+          "bitrate_bps": 257344.0
+        },
+        {
+          "segment_index": 73,
+          "filename": "0-73.m4s",
+          "duration": 4.0,
+          "size_bytes": 437129,
+          "bitrate_bps": 874258.0
+        },
+        {
+          "segment_index": 74,
+          "filename": "0-74.m4s",
+          "duration": 4.0,
+          "size_bytes": 2409384,
+          "bitrate_bps": 4818768.0
+        },
+        {
+          "segment_index": 75,
+          "filename": "0-75.m4s",
+          "duration": 4.0,
+          "size_bytes": 460265,
+          "bitrate_bps": 920530.0
+        },
+        {
+          "segment_index": 76,
+          "filename": "0-76.m4s",
+          "duration": 4.0,
+          "size_bytes": 171523,
+          "bitrate_bps": 343046.0
+        },
+        {
+          "segment_index": 77,
+          "filename": "0-77.m4s",
+          "duration": 4.0,
+          "size_bytes": 579572,
+          "bitrate_bps": 1159144.0
+        },
+        {
+          "segment_index": 78,
+          "filename": "0-78.m4s",
+          "duration": 4.0,
+          "size_bytes": 2855978,
+          "bitrate_bps": 5711956.0
+        },
+        {
+          "segment_index": 79,
+          "filename": "0-79.m4s",
+          "duration": 4.0,
+          "size_bytes": 505734,
+          "bitrate_bps": 1011468.0
+        },
+        {
+          "segment_index": 80,
+          "filename": "0-80.m4s",
+          "duration": 4.0,
+          "size_bytes": 315356,
+          "bitrate_bps": 630712.0
+        },
+        {
+          "segment_index": 81,
+          "filename": "0-81.m4s",
+          "duration": 4.0,
+          "size_bytes": 877717,
+          "bitrate_bps": 1755434.0
+        },
+        {
+          "segment_index": 82,
+          "filename": "0-82.m4s",
+          "duration": 4.0,
+          "size_bytes": 3309640,
+          "bitrate_bps": 6619280.0
+        },
+        {
+          "segment_index": 83,
+          "filename": "0-83.m4s",
+          "duration": 4.0,
+          "size_bytes": 688793,
+          "bitrate_bps": 1377586.0
+        },
+        {
+          "segment_index": 84,
+          "filename": "0-84.m4s",
+          "duration": 4.0,
+          "size_bytes": 286468,
+          "bitrate_bps": 572936.0
+        },
+        {
+          "segment_index": 85,
+          "filename": "0-85.m4s",
+          "duration": 4.0,
+          "size_bytes": 687129,
+          "bitrate_bps": 1374258.0
+        },
+        {
+          "segment_index": 86,
+          "filename": "0-86.m4s",
+          "duration": 4.0,
+          "size_bytes": 2322673,
+          "bitrate_bps": 4645346.0
+        },
+        {
+          "segment_index": 87,
+          "filename": "0-87.m4s",
+          "duration": 4.0,
+          "size_bytes": 444840,
+          "bitrate_bps": 889680.0
+        },
+        {
+          "segment_index": 88,
+          "filename": "0-88.m4s",
+          "duration": 4.0,
+          "size_bytes": 130988,
+          "bitrate_bps": 261976.0
+        },
+        {
+          "segment_index": 89,
+          "filename": "0-89.m4s",
+          "duration": 4.0,
+          "size_bytes": 475174,
+          "bitrate_bps": 950348.0
+        },
+        {
+          "segment_index": 90,
+          "filename": "0-90.m4s",
+          "duration": 4.0,
+          "size_bytes": 2569068,
+          "bitrate_bps": 5138136.0
+        },
+        {
+          "segment_index": 91,
+          "filename": "0-91.m4s",
+          "duration": 4.0,
+          "size_bytes": 475326,
+          "bitrate_bps": 950652.0
+        },
+        {
+          "segment_index": 92,
+          "filename": "0-92.m4s",
+          "duration": 4.0,
+          "size_bytes": 144959,
+          "bitrate_bps": 289918.0
+        },
+        {
+          "segment_index": 93,
+          "filename": "0-93.m4s",
+          "duration": 4.0,
+          "size_bytes": 292376,
+          "bitrate_bps": 584752.0
+        },
+        {
+          "segment_index": 94,
+          "filename": "0-94.m4s",
+          "duration": 4.0,
+          "size_bytes": 998428,
+          "bitrate_bps": 1996856.0
+        },
+        {
+          "segment_index": 95,
+          "filename": "0-95.m4s",
+          "duration": 4.0,
+          "size_bytes": 2026345,
+          "bitrate_bps": 4052690.0
+        },
+        {
+          "segment_index": 96,
+          "filename": "0-96.m4s",
+          "duration": 4.0,
+          "size_bytes": 468292,
+          "bitrate_bps": 936584.0
+        },
+        {
+          "segment_index": 97,
+          "filename": "0-97.m4s",
+          "duration": 4.0,
+          "size_bytes": 170699,
+          "bitrate_bps": 341398.0
+        },
+        {
+          "segment_index": 98,
+          "filename": "0-98.m4s",
+          "duration": 4.0,
+          "size_bytes": 561836,
+          "bitrate_bps": 1123672.0
+        },
+        {
+          "segment_index": 99,
+          "filename": "0-99.m4s",
+          "duration": 4.0,
+          "size_bytes": 2777864,
+          "bitrate_bps": 5555728.0
+        },
+        {
+          "segment_index": 100,
+          "filename": "0-100.m4s",
+          "duration": 4.0,
+          "size_bytes": 485926,
+          "bitrate_bps": 971852.0
+        },
+        {
+          "segment_index": 101,
+          "filename": "0-101.m4s",
+          "duration": 4.0,
+          "size_bytes": 155818,
+          "bitrate_bps": 311636.0
+        },
+        {
+          "segment_index": 102,
+          "filename": "0-102.m4s",
+          "duration": 4.0,
+          "size_bytes": 425846,
+          "bitrate_bps": 851692.0
+        },
+        {
+          "segment_index": 103,
+          "filename": "0-103.m4s",
+          "duration": 4.0,
+          "size_bytes": 1820865,
+          "bitrate_bps": 3641730.0
+        },
+        {
+          "segment_index": 104,
+          "filename": "0-104.m4s",
+          "duration": 4.0,
+          "size_bytes": 1030353,
+          "bitrate_bps": 2060706.0
+        },
+        {
+          "segment_index": 105,
+          "filename": "0-105.m4s",
+          "duration": 4.0,
+          "size_bytes": 493372,
+          "bitrate_bps": 986744.0
+        },
+        {
+          "segment_index": 106,
+          "filename": "0-106.m4s",
+          "duration": 4.0,
+          "size_bytes": 168119,
+          "bitrate_bps": 336238.0
+        },
+        {
+          "segment_index": 107,
+          "filename": "0-107.m4s",
+          "duration": 4.0,
+          "size_bytes": 414912,
+          "bitrate_bps": 829824.0
+        },
+        {
+          "segment_index": 108,
+          "filename": "0-108.m4s",
+          "duration": 4.0,
+          "size_bytes": 1319772,
+          "bitrate_bps": 2639544.0
+        },
+        {
+          "segment_index": 109,
+          "filename": "0-109.m4s",
+          "duration": 4.0,
+          "size_bytes": 2081237,
+          "bitrate_bps": 4162474.0
+        },
+        {
+          "segment_index": 110,
+          "filename": "0-110.m4s",
+          "duration": 4.0,
+          "size_bytes": 469224,
+          "bitrate_bps": 938448.0
+        },
+        {
+          "segment_index": 111,
+          "filename": "0-111.m4s",
+          "duration": 4.0,
+          "size_bytes": 166150,
+          "bitrate_bps": 332300.0
+        },
+        {
+          "segment_index": 112,
+          "filename": "0-112.m4s",
+          "duration": 4.0,
+          "size_bytes": 431728,
+          "bitrate_bps": 863456.0
+        },
+        {
+          "segment_index": 113,
+          "filename": "0-113.m4s",
+          "duration": 4.0,
+          "size_bytes": 1466659,
+          "bitrate_bps": 2933318.0
+        },
+        {
+          "segment_index": 114,
+          "filename": "0-114.m4s",
+          "duration": 4.0,
+          "size_bytes": 2124827,
+          "bitrate_bps": 4249654.0
+        },
+        {
+          "segment_index": 115,
+          "filename": "0-115.m4s",
+          "duration": 4.0,
+          "size_bytes": 460375,
+          "bitrate_bps": 920750.0
+        },
+        {
+          "segment_index": 116,
+          "filename": "0-116.m4s",
+          "duration": 4.0,
+          "size_bytes": 171701,
+          "bitrate_bps": 343402.0
+        },
+        {
+          "segment_index": 117,
+          "filename": "0-117.m4s",
+          "duration": 4.0,
+          "size_bytes": 565849,
+          "bitrate_bps": 1131698.0
+        },
+        {
+          "segment_index": 118,
+          "filename": "0-118.m4s",
+          "duration": 4.0,
+          "size_bytes": 2485190,
+          "bitrate_bps": 4970380.0
+        },
+        {
+          "segment_index": 119,
+          "filename": "0-119.m4s",
+          "duration": 4.0,
+          "size_bytes": 454921,
+          "bitrate_bps": 909842.0
+        },
+        {
+          "segment_index": 120,
+          "filename": "0-120.m4s",
+          "duration": 4.0,
+          "size_bytes": 162592,
+          "bitrate_bps": 325184.0
+        },
+        {
+          "segment_index": 121,
+          "filename": "0-121.m4s",
+          "duration": 4.0,
+          "size_bytes": 572335,
+          "bitrate_bps": 1144670.0
+        },
+        {
+          "segment_index": 122,
+          "filename": "0-122.m4s",
+          "duration": 4.0,
+          "size_bytes": 2227055,
+          "bitrate_bps": 4454110.0
+        },
+        {
+          "segment_index": 123,
+          "filename": "0-123.m4s",
+          "duration": 4.0,
+          "size_bytes": 581845,
+          "bitrate_bps": 1163690.0
+        },
+        {
+          "segment_index": 124,
+          "filename": "0-124.m4s",
+          "duration": 4.0,
+          "size_bytes": 624559,
+          "bitrate_bps": 1249118.0
+        },
+        {
+          "segment_index": 125,
+          "filename": "0-125.m4s",
+          "duration": 4.0,
+          "size_bytes": 168051,
+          "bitrate_bps": 336102.0
+        },
+        {
+          "segment_index": 126,
+          "filename": "0-126.m4s",
+          "duration": 4.0,
+          "size_bytes": 291792,
+          "bitrate_bps": 583584.0
+        },
+        {
+          "segment_index": 127,
+          "filename": "0-127.m4s",
+          "duration": 4.0,
+          "size_bytes": 1693098,
+          "bitrate_bps": 3386196.0
+        },
+        {
+          "segment_index": 128,
+          "filename": "0-128.m4s",
+          "duration": 4.0,
+          "size_bytes": 1475236,
+          "bitrate_bps": 2950472.0
+        },
+        {
+          "segment_index": 129,
+          "filename": "0-129.m4s",
+          "duration": 4.0,
+          "size_bytes": 507990,
+          "bitrate_bps": 1015980.0
+        },
+        {
+          "segment_index": 130,
+          "filename": "0-130.m4s",
+          "duration": 4.0,
+          "size_bytes": 177110,
+          "bitrate_bps": 354220.0
+        },
+        {
+          "segment_index": 131,
+          "filename": "0-131.m4s",
+          "duration": 4.0,
+          "size_bytes": 276250,
+          "bitrate_bps": 552500.0
+        },
+        {
+          "segment_index": 132,
+          "filename": "0-132.m4s",
+          "duration": 4.0,
+          "size_bytes": 1130331,
+          "bitrate_bps": 2260662.0
+        },
+        {
+          "segment_index": 133,
+          "filename": "0-133.m4s",
+          "duration": 4.0,
+          "size_bytes": 1573649,
+          "bitrate_bps": 3147298.0
+        },
+        {
+          "segment_index": 134,
+          "filename": "0-134.m4s",
+          "duration": 4.0,
+          "size_bytes": 459076,
+          "bitrate_bps": 918152.0
+        },
+        {
+          "segment_index": 135,
+          "filename": "0-135.m4s",
+          "duration": 4.0,
+          "size_bytes": 174954,
+          "bitrate_bps": 349908.0
+        },
+        {
+          "segment_index": 136,
+          "filename": "0-136.m4s",
+          "duration": 4.0,
+          "size_bytes": 568846,
+          "bitrate_bps": 1137692.0
+        },
+        {
+          "segment_index": 137,
+          "filename": "0-137.m4s",
+          "duration": 4.0,
+          "size_bytes": 2589765,
+          "bitrate_bps": 5179530.0
+        },
+        {
+          "segment_index": 138,
+          "filename": "0-138.m4s",
+          "duration": 4.0,
+          "size_bytes": 468563,
+          "bitrate_bps": 937126.0
+        },
+        {
+          "segment_index": 139,
+          "filename": "0-139.m4s",
+          "duration": 4.0,
+          "size_bytes": 153354,
+          "bitrate_bps": 306708.0
+        },
+        {
+          "segment_index": 140,
+          "filename": "0-140.m4s",
+          "duration": 4.0,
+          "size_bytes": 508857,
+          "bitrate_bps": 1017714.0
+        },
+        {
+          "segment_index": 141,
+          "filename": "0-141.m4s",
+          "duration": 4.0,
+          "size_bytes": 2295673,
+          "bitrate_bps": 4591346.0
+        },
+        {
+          "segment_index": 142,
+          "filename": "0-142.m4s",
+          "duration": 4.0,
+          "size_bytes": 470174,
+          "bitrate_bps": 940348.0
+        },
+        {
+          "segment_index": 143,
+          "filename": "0-143.m4s",
+          "duration": 4.0,
+          "size_bytes": 157735,
+          "bitrate_bps": 315470.0
+        },
+        {
+          "segment_index": 144,
+          "filename": "0-144.m4s",
+          "duration": 4.0,
+          "size_bytes": 502921,
+          "bitrate_bps": 1005842.0
+        },
+        {
+          "segment_index": 145,
+          "filename": "0-145.m4s",
+          "duration": 4.0,
+          "size_bytes": 2709688,
+          "bitrate_bps": 5419376.0
+        },
+        {
+          "segment_index": 146,
+          "filename": "0-146.m4s",
+          "duration": 4.0,
+          "size_bytes": 490883,
+          "bitrate_bps": 981766.0
+        },
+        {
+          "segment_index": 147,
+          "filename": "0-147.m4s",
+          "duration": 4.0,
+          "size_bytes": 169852,
+          "bitrate_bps": 339704.0
+        },
+        {
+          "segment_index": 148,
+          "filename": "0-148.m4s",
+          "duration": 4.0,
+          "size_bytes": 312572,
+          "bitrate_bps": 625144.0
+        },
+        {
+          "segment_index": 149,
+          "filename": "0-149.m4s",
+          "duration": 4.0,
+          "size_bytes": 1067055,
+          "bitrate_bps": 2134110.0
+        },
+        {
+          "segment_index": 150,
+          "filename": "0-150.m4s",
+          "duration": 4.0,
+          "size_bytes": 1846146,
+          "bitrate_bps": 3692292.0
+        },
+        {
+          "segment_index": 151,
+          "filename": "0-151.m4s",
+          "duration": 4.0,
+          "size_bytes": 466341,
+          "bitrate_bps": 932682.0
+        },
+        {
+          "segment_index": 152,
+          "filename": "0-152.m4s",
+          "duration": 4.0,
+          "size_bytes": 161008,
+          "bitrate_bps": 322016.0
+        },
+        {
+          "segment_index": 153,
+          "filename": "0-153.m4s",
+          "duration": 4.0,
+          "size_bytes": 382746,
+          "bitrate_bps": 765492.0
+        },
+        {
+          "segment_index": 154,
+          "filename": "0-154.m4s",
+          "duration": 4.0,
+          "size_bytes": 1678693,
+          "bitrate_bps": 3357386.0
+        },
+        {
+          "segment_index": 155,
+          "filename": "0-155.m4s",
+          "duration": 4.0,
+          "size_bytes": 2509447,
+          "bitrate_bps": 5018894.0
+        },
+        {
+          "segment_index": 156,
+          "filename": "0-156.m4s",
+          "duration": 4.0,
+          "size_bytes": 566210,
+          "bitrate_bps": 1132420.0
+        },
+        {
+          "segment_index": 157,
+          "filename": "0-157.m4s",
+          "duration": 4.0,
+          "size_bytes": 302631,
+          "bitrate_bps": 605262.0
+        },
+        {
+          "segment_index": 158,
+          "filename": "0-158.m4s",
+          "duration": 4.0,
+          "size_bytes": 850080,
+          "bitrate_bps": 1700160.0
+        },
+        {
+          "segment_index": 159,
+          "filename": "0-159.m4s",
+          "duration": 4.0,
+          "size_bytes": 2805490,
+          "bitrate_bps": 5610980.0
+        },
+        {
+          "segment_index": 160,
+          "filename": "0-160.m4s",
+          "duration": 4.0,
+          "size_bytes": 580397,
+          "bitrate_bps": 1160794.0
+        },
+        {
+          "segment_index": 161,
+          "filename": "0-161.m4s",
+          "duration": 4.0,
+          "size_bytes": 495368,
+          "bitrate_bps": 990736.0
+        },
+        {
+          "segment_index": 162,
+          "filename": "0-162.m4s",
+          "duration": 4.0,
+          "size_bytes": 170412,
+          "bitrate_bps": 340824.0
+        },
+        {
+          "segment_index": 163,
+          "filename": "0-163.m4s",
+          "duration": 4.0,
+          "size_bytes": 315156,
+          "bitrate_bps": 630312.0
+        },
+        {
+          "segment_index": 164,
+          "filename": "0-164.m4s",
+          "duration": 4.0,
+          "size_bytes": 994001,
+          "bitrate_bps": 1988002.0
+        },
+        {
+          "segment_index": 165,
+          "filename": "0-165.m4s",
+          "duration": 4.0,
+          "size_bytes": 2420620,
+          "bitrate_bps": 4841240.0
+        },
+        {
+          "segment_index": 166,
+          "filename": "0-166.m4s",
+          "duration": 4.0,
+          "size_bytes": 545116,
+          "bitrate_bps": 1090232.0
+        },
+        {
+          "segment_index": 167,
+          "filename": "0-167.m4s",
+          "duration": 4.0,
+          "size_bytes": 280876,
+          "bitrate_bps": 561752.0
+        },
+        {
+          "segment_index": 168,
+          "filename": "0-168.m4s",
+          "duration": 4.0,
+          "size_bytes": 553306,
+          "bitrate_bps": 1106612.0
+        },
+        {
+          "segment_index": 169,
+          "filename": "0-169.m4s",
+          "duration": 4.0,
+          "size_bytes": 2441688,
+          "bitrate_bps": 4883376.0
+        },
+        {
+          "segment_index": 170,
+          "filename": "0-170.m4s",
+          "duration": 4.0,
+          "size_bytes": 497156,
+          "bitrate_bps": 994312.0
+        },
+        {
+          "segment_index": 171,
+          "filename": "0-171.m4s",
+          "duration": 4.0,
+          "size_bytes": 446813,
+          "bitrate_bps": 893626.0
+        },
+        {
+          "segment_index": 172,
+          "filename": "0-172.m4s",
+          "duration": 4.0,
+          "size_bytes": 857512,
+          "bitrate_bps": 1715024.0
+        },
+        {
+          "segment_index": 173,
+          "filename": "0-173.m4s",
+          "duration": 4.0,
+          "size_bytes": 3222350,
+          "bitrate_bps": 6444700.0
+        },
+        {
+          "segment_index": 174,
+          "filename": "0-174.m4s",
+          "duration": 4.0,
+          "size_bytes": 259580,
+          "bitrate_bps": 519160.0
+        },
+        {
+          "segment_index": 175,
+          "filename": "0-175.m4s",
+          "duration": 4.0,
+          "size_bytes": 624024,
+          "bitrate_bps": 1248048.0
+        },
+        {
+          "segment_index": 176,
+          "filename": "0-176.m4s",
+          "duration": 4.0,
+          "size_bytes": 286804,
+          "bitrate_bps": 573608.0
+        },
+        {
+          "segment_index": 177,
+          "filename": "0-177.m4s",
+          "duration": 4.0,
+          "size_bytes": 694650,
+          "bitrate_bps": 1389300.0
+        },
+        {
+          "segment_index": 178,
+          "filename": "0-178.m4s",
+          "duration": 4.0,
+          "size_bytes": 2244712,
+          "bitrate_bps": 4489424.0
+        },
+        {
+          "segment_index": 179,
+          "filename": "0-179.m4s",
+          "duration": 4.0,
+          "size_bytes": 1835374,
+          "bitrate_bps": 3670748.0
+        },
+        {
+          "segment_index": 180,
+          "filename": "0-180.m4s",
+          "duration": 4.0,
+          "size_bytes": 583952,
+          "bitrate_bps": 1167904.0
+        },
+        {
+          "segment_index": 181,
+          "filename": "0-181.m4s",
+          "duration": 4.0,
+          "size_bytes": 299405,
+          "bitrate_bps": 598810.0
+        },
+        {
+          "segment_index": 182,
+          "filename": "0-182.m4s",
+          "duration": 4.0,
+          "size_bytes": 821941,
+          "bitrate_bps": 1643882.0
+        },
+        {
+          "segment_index": 183,
+          "filename": "0-183.m4s",
+          "duration": 4.0,
+          "size_bytes": 3083213,
+          "bitrate_bps": 6166426.0
+        },
+        {
+          "segment_index": 184,
+          "filename": "0-184.m4s",
+          "duration": 4.0,
+          "size_bytes": 538227,
+          "bitrate_bps": 1076454.0
+        },
+        {
+          "segment_index": 185,
+          "filename": "0-185.m4s",
+          "duration": 4.0,
+          "size_bytes": 170756,
+          "bitrate_bps": 341512.0
+        },
+        {
+          "segment_index": 186,
+          "filename": "0-186.m4s",
+          "duration": 4.0,
+          "size_bytes": 690074,
+          "bitrate_bps": 1380148.0
+        },
+        {
+          "segment_index": 187,
+          "filename": "0-187.m4s",
+          "duration": 4.0,
+          "size_bytes": 2814768,
+          "bitrate_bps": 5629536.0
+        },
+        {
+          "segment_index": 188,
+          "filename": "0-188.m4s",
+          "duration": 4.0,
+          "size_bytes": 548979,
+          "bitrate_bps": 1097958.0
+        },
+        {
+          "segment_index": 189,
+          "filename": "0-189.m4s",
+          "duration": 4.0,
+          "size_bytes": 171493,
+          "bitrate_bps": 342986.0
+        },
+        {
+          "segment_index": 190,
+          "filename": "0-190.m4s",
+          "duration": 4.0,
+          "size_bytes": 314381,
+          "bitrate_bps": 628762.0
+        },
+        {
+          "segment_index": 191,
+          "filename": "0-191.m4s",
+          "duration": 4.0,
+          "size_bytes": 1077122,
+          "bitrate_bps": 2154244.0
+        },
+        {
+          "segment_index": 192,
+          "filename": "0-192.m4s",
+          "duration": 4.0,
+          "size_bytes": 2117631,
+          "bitrate_bps": 4235262.0
+        },
+        {
+          "segment_index": 193,
+          "filename": "0-193.m4s",
+          "duration": 2.1,
+          "size_bytes": 540567,
+          "bitrate_bps": 2059302.857142857
+        }
+      ]
+    }
+  }
+}
