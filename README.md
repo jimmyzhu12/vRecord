@@ -1,4 +1,4 @@
-# vRecord Dataset
+# vSeek Dataset
 
 This repository hosts the dataset associated with the paper **_vSeek: A User Study Dataset on Video Watching Behavior_**.
 
