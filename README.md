@@ -1,6 +1,6 @@
-# vSeek Dataset
+# vRecord Dataset
 
-This repository hosts the dataset associated with the paper **_vSeek: A User Study Dataset on Video Watching Behavior_**.
+This repository hosts the dataset associated with the paper **vRecord: A User Study Dataset on Video Watching Behavior_**.
 
 Comprehensive details regarding the dataset, including its collection process, structure, and analysis, are available in the accompanying paper.
 
@@ -12,4 +12,4 @@ The current release contains the data collected for the course ece220 provided i
 ## Reference
 
 For a detailed description and analysis of the dataset, please consult the paper.
-vSeek: A User Study dataset on video watching behavio
+vRecord: A User Study dataset on video watching behavior
