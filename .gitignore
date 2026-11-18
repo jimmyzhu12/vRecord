@@ -1,0 +1,10 @@
+# Local working files (poster drafts, reference papers, screenshots)
+local/
+
+# Generated plots / Python caches
+plotting_scripts/*.pdf
+__pycache__/
+*.pyc
+
+# Local Claude Code settings
+.claude/settings.local.json
