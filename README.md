@@ -7,7 +7,8 @@ Comprehensive details regarding the dataset, including its collection process, s
 ## Current Release
 
 This repository is intended to be updated continuously.
-The current release contains the data collected for the course ece220 provided in UIUC, corresponding exactly to the dataset discussed in the paper.
+- **Paper release** (`data_mm.csv`, `data_waste.csv`): the data collected for the course ece220 at UIUC, corresponding exactly to the dataset discussed in the paper (5,448 sessions).
+- **Latest snapshot** (`data_latest/`, updated 2026-11-18): all sessions collected so far (6,319 playback sessions), plus new server-side network statistics (60,765 TCP samples: RTT, cwnd, delivery rate, retransmissions, etc., across 590 sessions, collected since 2026-09-02).
 
 ## Repository layout
 
